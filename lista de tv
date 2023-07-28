@@ -1,5 +1,164 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries",A&E
+http://pfsv.io/live/Silviopaz/pandora/293.m3u8
+
+#EXTINF:-1 tvg-id="Agro+" tvg-name="AgroMais FHD" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades",AgroMais
+http://pfsv.io/live/Silviopaz/pandora/109512.m3u8
+
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC
+http://pfsv.io/live/Silviopaz/pandora/294.m3u8
+
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários",Animal Planet
+http://pfsv.io/live/Silviopaz/pandora/164.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet [4K]" tvg-logo="http://p6.vc/bb" group-title="Canais | 4K",Animal Planet
+http://pfsv.io/live/Silviopaz/pandora/588.m3u8
+
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="Arte 1 FHD" tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários",Arte 1
+http://pfsv.io/live/Silviopaz/pandora/165.m3u8
+
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD" tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN
+http://pfsv.io/live/Silviopaz/pandora/295.m3u8
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN [4K]" tvg-logo="http://p6.vc/H" group-title="Canais | 4K",AXN
+http://pfsv.io/live/Silviopaz/pandora/50863.m3u8
+
+#EXTINF:-1 tvg-id="BR - BABY TV" tvg-name="Baby TV SD" tvg-logo="http://p6.vc/AKK" group-title="Canais | Infantis",Baby TV
+http://pfsv.io/live/Silviopaz/pandora/149.m3u8
+
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND FHD [H265]" tvg-logo="http://p6.vc/VVK" group-title="Canais | Abertos",BAND
+http://pfsv.io/live/Silviopaz/pandora/113588.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Band Internacional" tvg-logo="http://p6.vc/AXD" group-title="Canais | Notícias",Band Internacional
+http://pfsv.io/live/Silviopaz/pandora/518.m3u8
+
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="Band News FHD" tvg-logo="http://p6.vc/AWW" group-title="Canais | Notícias",Band News
+http://pfsv.io/live/Silviopaz/pandora/510.m3u8
+
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="Band Sport FHD" tvg-logo="http://p6.vc/ANX" group-title="Canais | Esportes",Band Sport
+http://pfsv.io/live/Silviopaz/pandora/247.m3u8
+
+#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="Band TV Minas HD" tvg-logo="http://p6.vc/UAG" group-title="Canais | Abertos",Band TV Minas
+http://pfsv.io/live/Silviopaz/pandora/123582.m3u8
+
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS FHD" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music",BIS
+http://pfsv.io/live/Silviopaz/pandora/5.m3u8
+
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="http://p6.vc/APU" group-title="Canais | Filmes e Séries",Canal Brasil
+http://pfsv.io/live/Silviopaz/pandora/298.m3u8
+
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",Canal do Boi
+http://pfsv.io/live/Silviopaz/pandora/83.m3u8
+
+#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural SD" tvg-logo="http://p6.vc/AHY" group-title="Canais | Abertos",Canal Rural
+http://pfsv.io/live/Silviopaz/pandora/81.m3u8
+
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Cancao Nova HD" tvg-logo="http://p6.vc/VPV" group-title="Canais | Religiosos",Cancao Nova HD
+http://pfsv.io/live/Silviopaz/pandora/33379.m3u8
+
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="http://p6.vc/AJP" group-title="Canais | Infantis",Cartoon Network
+http://pfsv.io/live/Silviopaz/pandora/126.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network [4K]" tvg-logo="http://p6.vc/bc" group-title="Canais | 4K",Cartoon Network
+http://pfsv.io/live/Silviopaz/pandora/591.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito FHD" tvg-logo="http://p6.vc/AJO" group-title="Canais | Infantis",Cartoonito
+http://pfsv.io/live/Silviopaz/pandora/125.m3u8
+
+#EXTINF:-1 tvg-id="Chef.TV.HD.br" tvg-name="Chef TV HD" tvg-logo="http://p6.vc/VRG" group-title="Canais | Variedades",Chef TV 
+http://pfsv.io/live/Silviopaz/pandora/69079.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 FHD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 01 FHD
+http://pfsv.io/live/Silviopaz/pandora/50858.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 01 HD
+http://pfsv.io/live/Silviopaz/pandora/50838.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 FHD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 06 FHD
+http://pfsv.io/live/Silviopaz/pandora/50862.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 06 HD
+http://pfsv.io/live/Silviopaz/pandora/50843.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 14 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 14 HD
+http://pfsv.io/live/Silviopaz/pandora/50851.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 15 HD
+http://pfsv.io/live/Silviopaz/pandora/50852.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 16 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 16 HD
+http://pfsv.io/live/Silviopaz/pandora/50853.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 17 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 17 HD
+http://pfsv.io/live/Silviopaz/pandora/50854.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 18 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 18 HD
+http://pfsv.io/live/Silviopaz/pandora/50855.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 19 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 19 HD
+http://pfsv.io/live/Silviopaz/pandora/50856.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 20 FHD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 20 FHD
+http://pfsv.io/live/Silviopaz/pandora/50859.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 20 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",Cine Sky 20 HD
+http://pfsv.io/live/Silviopaz/pandora/50857.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 21 FHD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 21 FHD
+http://pfsv.io/live/Silviopaz/pandora/50860.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal HD" tvg-logo="http://p6.vc/XTL" group-title="Canais | Filmes e Séries",Cinecanal HD
+http://pfsv.io/live/Silviopaz/pandora/132946.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal SD" tvg-logo="http://p6.vc/XTN" group-title="Canais | Filmes e Séries",Cinecanal SD
+http://pfsv.io/live/Silviopaz/pandora/132948.m3u8
+
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CineMax FHD" tvg-logo="http://p6.vc/AOY" group-title="Canais | Filmes e Séries",CineMax FHD
+http://pfsv.io/live/Silviopaz/pandora/275.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN Brasil FHD" tvg-logo="http://p6.vc/AWZ" group-title="Canais | Notícias",CNN Brasil FHD
+http://pfsv.io/live/Silviopaz/pandora/513.m3u8
+
+
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="http://p6.vc/VNG" group-title="Canais | 4K",CNN Brasil 
+http://pfsv.io/live/Silviopaz/pandora/50865.m3u8
+
+#EXTINF:-1 tvg-id="São Paulo/SP  Combate" tvg-name="Combate FHD" tvg-logo="http://p6.vc/ANZ" group-title="Canais | Esportes",Combate
+http://pfsv.io/live/Silviopaz/pandora/249.m3u8
+
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="http://p6.vc/AIO" group-title="Canais | Variedades",Comedy Central
+http://pfsv.io/live/Silviopaz/pandora/97.m3u8
+
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central [4K]" tvg-logo="http://p6.vc/VRE" group-title="Canais | 4K",Comedy Central
+http://pfsv.io/live/Silviopaz/pandora/50868.m3u8
+
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="Curta! FHD" tvg-logo="http://p6.vc/AIP" group-title="Canais | Variedades",Curta!
+http://pfsv.io/live/Silviopaz/pandora/98.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01" tvg-logo="http://p6.vc/XQJ" group-title="Canais | DAZN",DAZN
+http://pfsv.io/live/Silviopaz/pandora/132316.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02" tvg-logo="http://p6.vc/XQK" group-title="Canais | DAZN",DAZN 02
+http://pfsv.io/live/Silviopaz/pandora/132317.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 FHD [ALTER2]" tvg-logo="http://p6.vc/XQR" group-title="Canais | DAZN",DAZN 02 FHD [ALTER2]
+http://pfsv.io/live/Silviopaz/pandora/132324.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03" tvg-logo="http://p6.vc/XQL" group-title="Canais | DAZN",DAZN 03
+http://pfsv.io/live/Silviopaz/pandora/132318.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04" tvg-logo="http://p6.vc/XQM" group-title="Canais | DAZN",DAZN 04
+http://pfsv.io/live/Silviopaz/pandora/132319.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 05" tvg-logo="http://p6.vc/XQN" group-title="Canais | DAZN",DAZN 05
+http://pfsv.io/live/Silviopaz/pandora/132320.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 06" tvg-logo="http://p6.vc/XQO" group-title="Canais | DAZN",DAZN 06
+http://pfsv.io/live/Silviopaz/pandora/132321.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv",EPTV Ribeirao HD
 http://acsb.sh:80/bF3y9W/68GSme/131178.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",Cultura HD
