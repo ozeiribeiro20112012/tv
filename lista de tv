@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://assisista.live:80/images/a547c1d72fdd047536a1ac84ed930a9b.png",Globo VANGUARDA TAUBATÉ FHD
+http://assista.live:80/5528999773199/94596866/263355
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://assisista.live:80/images/eadc1bacb17aea28d29fefc19868b5e1.png",SBT RJ FHD
+http://assista.live:80/5528999773199/94596866/263395
+#EXTINF:-1 group-title="CANAIS | RECORD" tvg-logo="http://assisista.live:80/images/de17f0f24b49f8364187891f8550ffbb.png",RECORD CAMPINAS
+http://assista.live:80/5528999773199/94596866/263364
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA
+http://assista.live:80/5528999773199/94596866/211354
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA HD
+http://assista.live:80/5528999773199/94596866/211355
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/d168c00361908c896991dc5b8a49d666.png",Rede Brasil TV
+http://assista.live:80/5528999773199/94596866/211356
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/7a4c7463756c54838f29a4d6c1edcc69.png",REDE MINAS HD
+http://assista.live:80/5528999773199/94596866/211357
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV FHD
+http://assista.live:80/5528999773199/94596866/211358
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV HD
+http://assista.live:80/5528999773199/94596866/211359
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",RedeTV SD
+http://assista.live:80/5528999773199/94596866/211360
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/a2799c8089b2a7523bcc8656042c6286.png",TV CULTURA HD
+http://assista.live:80/5528999773199/94596866/211361
+#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png",Animal Planet 4K
+http://assista.live:80/5528999773199/94596866/124741
 #EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM FHD DUAL AUDIO
 http://assista.live:80/5528999773199/94596866/122637
 #EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM HD DUAL AUDIO
@@ -221,82 +245,6 @@ http://assista.live:80/5528999773199/94596866/123973
 http://assista.live:80/5528999773199/94596866/123978
 #EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",TV PAI ETERNO HD
 http://assista.live:80/5528999773199/94596866/123979
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/d592533fa36e293cbe1a0a821f8b9d96.jpg",AL - Difusora AM 960
-http://assista.live:80/5528999773199/94596866/123980
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/91603db73f1fdfe77a64d04c554da94a.jpg",AL - Gazeta AM 1260
-http://assista.live:80/5528999773199/94596866/123981
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/5d8a2579dd2fa2cc078de9ba5cbf765c.png",BA - Banda FM 99.1
-http://assista.live:80/5528999773199/94596866/123982
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/5f90333817d108798d3ff60f5c722aac.png",BA - CBN FM 100.7
-http://assista.live:80/5528999773199/94596866/123983
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/204da41f3a09601a07113e25874fd197.png",BA - Feliz FM 92.3
-http://assista.live:80/5528999773199/94596866/123984
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/481fd48f2871bff2cdfad875de113e17.png",BA - GFM 90.1
-http://assista.live:80/5528999773199/94596866/123985
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/12d17f8cf4625d7e6d1e999c45deedda.png",DF - Caçador Anos 80
-http://assista.live:80/5528999773199/94596866/123986
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/d0e6a706b74826465f1b29256e278d9e.png",DF - HUNTER FM 102.7
-http://assista.live:80/5528999773199/94596866/123987
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/a8ec70805bc1fa03cdecd2253d75f4a9.png",DF - Hunter Fresh
-http://assista.live:80/5528999773199/94596866/123988
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/28c79ae418b4fdb23e60d1953645c267.png",DF - Hunter Gospel
-http://assista.live:80/5528999773199/94596866/123989
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/094d843861fae4df0f692767b123ca83.png",DF - Hunter LO-FI
-http://assista.live:80/5528999773199/94596866/123990
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/fafb7c810089a3603544dbb9a1b15353.png",DF - Caçador Pisadinha
-http://assista.live:80/5528999773199/94596866/123991
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/475bc69d189d03ef96e05bec0d43c513.png",DF - Hunter POP2KS
-http://assista.live:80/5528999773199/94596866/123992
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/0ae0789b3dcc3e1e0261b209db5a26cb.png",DF - Hunter Rock
-http://assista.live:80/5528999773199/94596866/123993
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/a8ec70805bc1fa03cdecd2253d75f4a9.png",DF - Caçador Sertanejo
-http://assista.live:80/5528999773199/94596866/123994
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/2d470c5d684f0714ad4ff1b9115afd67.png",DF - Caçador Tropical
-http://assista.live:80/5528999773199/94596866/123995
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/01b8fb6fa56c9fc0943304d1260bb828.png",DF - Joven Pan FM 106.3
-http://assista.live:80/5528999773199/94596866/123996
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/6f930f6acfb25b307411d77d930421d0.png",DF - Beijo FM 102.3
-http://assista.live:80/5528999773199/94596866/123997
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/c0a97e981b70f30cf30ba44fc4f7e7c9.png",DF - Transamérica FM 100.1
-http://assista.live:80/5528999773199/94596866/123998
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/85e47ac07ac9d6416168a97e33fa969a.png",MG - 98.0 FM
-http://assista.live:80/5528999773199/94596866/123999
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png",MG - Cultura FM 95.1
-http://assista.live:80/5528999773199/94596866/124000
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/81f29e23f502d04ee3b249ce2f8537c2.png",MG - Itatiaia FM 95.7
-http://assista.live:80/5528999773199/94596866/124001
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="https://www.beatplay.com.br/wp-content/uploads/2020/07/logo-2019-beat.png", RJ - BeatPlay FM
-http://assista.live:80/5528999773199/94596866/124002
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/164775373fcee485698b672d96ad8a28.png",RJ - JB FM 99.9
-http://assista.live:80/5528999773199/94596866/124003
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/8c8a2ea49c664009690fa21473d5ee38.png",RJ - Tupi FM 96.5
-http://assista.live:80/5528999773199/94596866/124004
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/ba3d2137c7291d0901ca50adffa680e2.png",RS - 104 FM
-http://assista.live:80/5528999773199/94596866/124005
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/0e142b6e1f5baa761bdcf57c6432b7dc.png",RS - 92. FM
-http://assista.live:80/5528999773199/94596866/124006
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/b8d213a44306914a3ca06fc9c0b56fbc.jpg",RS - Alegria FM 92.9
-http://assista.live:80/5528999773199/94596866/124007
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/26dfa8ac73892dc16e692a9164ab181b.png",RS - Atlântida FM 94.3
-http://assista.live:80/5528999773199/94596866/124008
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/36c300fcfd422cc276e685d92abaf76e.jpg",RS - FM Gaúcha 93.7
-http://assista.live:80/5528999773199/94596866/124009
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/9e6a9b7a15edfc8cd153b0bdc2eab3da.png",RS - Guaíba FM 101.3
-http://assista.live:80/5528999773199/94596866/124010
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/8f4f81d5299ff2c5f1f407459b531f07.jpg",RS - Itapema FM 102.3
-http://assista.live:80/5528999773199/94596866/124011
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/01b8fb6fa56c9fc0943304d1260bb828.png",RS - JovenPan FM 97.5
-http://assista.live:80/5528999773199/94596866/124012
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/b5d387a2335751b244459d12d80ccb9b.jpg",SP - Antena 1 FM 94.7
-http://assista.live:80/5528999773199/94596866/124013
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/12ef5ef97d18cde0baaef3cddcf46c55.jpg",SP - Coca Cola FM
-http://assista.live:80/5528999773199/94596866/124014
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/9830589788e4fe605fcea5beb43caa60.png",SP - Mix FM 106.3
-http://assista.live:80/5528999773199/94596866/124015
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="https://radioamantes.files.wordpress.com/2017/06/rc3a1dio-globo.png?w=640",SP - Rádio Globo FM 92,5
-http://assista.live:80/5528999773199/94596866/124016
-#EXTINF:-1 group-title="CANAIS | RÁDIOS" tvg-logo="http://cdn.assistatv.me:80/images/b64eaf64ba470aac0654aeb459e4d20f.png",SP - Top FM 100.5
-http://assista.live:80/5528999773199/94596866/124017
 #EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO FHD DUAL AUDIO
 http://assista.live:80/5528999773199/94596866/124108
 #EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO HD DUAL AUDIO
@@ -347,8 +295,6 @@ http://assista.live:80/5528999773199/94596866/124148
 http://assista.live:80/5528999773199/94596866/124150
 #EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/dfd8cd7272155a55a723969fa4c3c863.png",HBO XTREME HD DUAL AUDIO
 http://assista.live:80/5528999773199/94596866/124152
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png",Animal Planet 4K
-http://assista.live:80/5528999773199/94596866/124741
 #EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/042dba4d2faaa29cd2fa4c0125416d25.png",AXN 4K
 http://assista.live:80/5528999773199/94596866/124742
 #EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/574ff4699083ce51de0dabcfad5edc4c.png",Banda 4K
@@ -1123,8 +1069,7 @@ http://assista.live:80/5528999773199/94596866/130636
 http://assista.live:80/5528999773199/94596866/130637
 #EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/342a5938e1365029bd318632384ee7a6.png",Telecine Fun (H265)
 http://assista.live:80/5528999773199/94596866/130638
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",Telecine Pipoca (H265)
-http://assista.live:80/5528999773199/94596866/130639
+#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",Telecine Pipoca (H265)http://assista.live:80/5528999773199/94596866/130639
 #EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",Telecine Premium (H265)
 http://assista.live:80/5528999773199/94596866/130640
 #EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/a35c66fcd18abd81bfd337fdf2819f64.png",Telecine Touch (H265)
@@ -1139,33 +1084,7 @@ http://assista.live:80/5528999773199/94596866/130644
 http://assista.live:80/5528999773199/94596866/130646
 #EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/0d0add97097fbf7893087628353afb49.png",Uau (H265)
 http://assista.live:80/5528999773199/94596866/130647
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA
-http://assista.live:80/5528999773199/94596866/211354
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA HD
-http://assista.live:80/5528999773199/94596866/211355
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/d168c00361908c896991dc5b8a49d666.png",Rede Brasil TV
-http://assista.live:80/5528999773199/94596866/211356
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/7a4c7463756c54838f29a4d6c1edcc69.png",REDE MINAS HD
-http://assista.live:80/5528999773199/94596866/211357
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV FHD
-http://assista.live:80/5528999773199/94596866/211358
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV HD
-http://assista.live:80/5528999773199/94596866/211359
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",RedeTV SD
-http://assista.live:80/5528999773199/94596866/211360
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/a2799c8089b2a7523bcc8656042c6286.png",TV CULTURA HD
-http://assista.live:80/5528999773199/94596866/211361
+
 #EXTINF:-1 group-title="CANAIS | GLOBO",Globo TV VANGUARDA
 http://assista.live:80/5528999773199/94596866/263348
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://assisista.live:80/images/a547c1d72fdd047536a1ac84ed930a9b.png",Globo VANGUARDA SÃO JOSÉ DOS CAMPOS FHD
-http://assista.live:80/5528999773199/94596866/263353
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://assisista.live:80/images/a547c1d72fdd047536a1ac84ed930a9b.png",Globo VANGUARDA SÃO JOSÉ DOS CAMPOS HD
-http://assista.live:80/5528999773199/94596866/263354
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://assisista.live:80/images/a547c1d72fdd047536a1ac84ed930a9b.png",Globo VANGUARDA TAUBATÉ FHD
-http://assista.live:80/5528999773199/94596866/263355
-#EXTINF:-1 group-title="CANAIS | RECORD" tvg-logo="http://assisista.live:80/images/de17f0f24b49f8364187891f8550ffbb.png",RECORD CAMPINAS
-http://assista.live:80/5528999773199/94596866/263364
-#EXTINF:-1 group-title="CANAIS | RECORD" tvg-logo="http://assisista.live:80/images/de17f0f24b49f8364187891f8550ffbb.png",RECORD CAMPINAS HD
-http://assista.live:80/5528999773199/94596866/263365
-#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://assisista.live:80/images/eadc1bacb17aea28d29fefc19868b5e1.png",SBT RJ FHD
-http://assista.live:80/5528999773199/94596866/263395
+
