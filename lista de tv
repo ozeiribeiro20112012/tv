@@ -1,1090 +1,897 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://assisista.live:80/images/a547c1d72fdd047536a1ac84ed930a9b.png",Globo 
-http://assista.live:80/5528999773199/94596866/263355
-#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://assisista.live:80/images/eadc1bacb17aea28d29fefc19868b5e1.png",SBT RJ FHD
-http://assista.live:80/5528999773199/94596866/263395
-#EXTINF:-1 group-title="CANAIS | RECORD" tvg-logo="http://assisista.live:80/images/de17f0f24b49f8364187891f8550ffbb.png",RECORD CAMPINAS
-http://assista.live:80/5528999773199/94596866/263364
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA
-http://assista.live:80/5528999773199/94596866/211354
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA HD
-http://assista.live:80/5528999773199/94596866/211355
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/d168c00361908c896991dc5b8a49d666.png",Rede Brasil TV
-http://assista.live:80/5528999773199/94596866/211356
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/7a4c7463756c54838f29a4d6c1edcc69.png",REDE MINAS HD
-http://assista.live:80/5528999773199/94596866/211357
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV FHD
-http://assista.live:80/5528999773199/94596866/211358
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV HD
-http://assista.live:80/5528999773199/94596866/211359
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",RedeTV SD
-http://assista.live:80/5528999773199/94596866/211360
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/a2799c8089b2a7523bcc8656042c6286.png",TV CULTURA HD
-http://assista.live:80/5528999773199/94596866/211361
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png",Animal Planet 4K
-http://assista.live:80/5528999773199/94596866/124741
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122637
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122639
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122642
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/b7ac7dc3145b2be99f99cf133e57b8ab.png",TELECINE ACTION FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122643
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/b7ac7dc3145b2be99f99cf133e57b8ab.png",TELECINE ACTION HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122645
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/b7ac7dc3145b2be99f99cf133e57b8ab.png",TELECINE ACTION SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122647
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/00384b0952a3b02d833fa17b54fcc80c.png",TELECINE CULT FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122649
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/00384b0952a3b02d833fa17b54fcc80c.png",TELECINE CULT HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122651
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/00384b0952a3b02d833fa17b54fcc80c.png",TELECINE CULT SD1 DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122653
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/342a5938e1365029bd318632384ee7a6.png",TELECINE FUN FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122655
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/342a5938e1365029bd318632384ee7a6.png",TELECINE FUN HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122657
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/342a5938e1365029bd318632384ee7a6.png",TELECINE FUN SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122659
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",TELECINE PIPOCA FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122661
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",TELECINE PIPOCA HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122663
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",TELECINE PIPOCA SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122665
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/a35c66fcd18abd81bfd337fdf2819f64.png",TELECINE TOUCH FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122667
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/a35c66fcd18abd81bfd337fdf2819f64.png",TELECINE TOUCH HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122669
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/a35c66fcd18abd81bfd337fdf2819f64.png",TELECINE TOUCH SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/122671
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE CLUBES 4K
-http://assista.live:80/5528999773199/94596866/122673
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/430d54b50faab261c0529be2db0c257a.png",PREMIERE 1 FHD
-http://assista.live:80/5528999773199/94596866/122675
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/430d54b50faab261c0529be2db0c257a.png",ESTREIA 1 HD
-http://assista.live:80/5528999773199/94596866/122677
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/430d54b50faab261c0529be2db0c257a.png",PREMIERE 1 SD
-http://assista.live:80/5528999773199/94596866/122679
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 2 FHD
-http://assista.live:80/5528999773199/94596866/122681
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 2 HD
-http://assista.live:80/5528999773199/94596866/122683
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 2 SD
-http://assista.live:80/5528999773199/94596866/122685
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 3 FHD
-http://assista.live:80/5528999773199/94596866/122687
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 3 HD
-http://assista.live:80/5528999773199/94596866/122689
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 4 FHD
-http://assista.live:80/5528999773199/94596866/122693
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 4 HD
-http://assista.live:80/5528999773199/94596866/122695
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 4 SD
-http://assista.live:80/5528999773199/94596866/122697
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 5 FHD
-http://assista.live:80/5528999773199/94596866/122699
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 6 FHD
-http://assista.live:80/5528999773199/94596866/122705
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 6 HD
-http://assista.live:80/5528999773199/94596866/122707
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 6 SD
-http://assista.live:80/5528999773199/94596866/122709
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 7 FHD
-http://assista.live:80/5528999773199/94596866/122711
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 7 HD
-http://assista.live:80/5528999773199/94596866/122713
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 7 SD
-http://assista.live:80/5528999773199/94596866/122715
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE 8 SD
-http://assista.live:80/5528999773199/94596866/122716
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",PREMIERE MOSAICO
-http://assista.live:80/5528999773199/94596866/122717
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/96e3719098b610412d5c596a98f43d05.png",A&E FHD
-http://assista.live:80/5528999773199/94596866/123289
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/96e3719098b610412d5c596a98f43d05.png",A&E HD
-http://assista.live:80/5528999773199/94596866/123290
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/96e3719098b610412d5c596a98f43d05.png",A&E SD
-http://assista.live:80/5528999773199/94596866/123291
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/5d5a2f8334f98231a559f7300adf5022.png",AMC FHD
-http://assista.live:80/5528999773199/94596866/123292
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/5d5a2f8334f98231a559f7300adf5022.png",AMC HD
-http://assista.live:80/5528999773199/94596866/123293
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/5d5a2f8334f98231a559f7300adf5022.png",AMC SD
-http://assista.live:80/5528999773199/94596866/123294
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/042dba4d2faaa29cd2fa4c0125416d25.png",AXN FHD
-http://assista.live:80/5528999773199/94596866/123295
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/042dba4d2faaa29cd2fa4c0125416d25.png",AXN HD
-http://assista.live:80/5528999773199/94596866/123296
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/042dba4d2faaa29cd2fa4c0125416d25.png",AXN SD
-http://assista.live:80/5528999773199/94596866/123297
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/de887e7a6b3b53aa18e823fec18ad970.png",CINEMAX FHD
-http://assista.live:80/5528999773199/94596866/123298
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/de887e7a6b3b53aa18e823fec18ad970.png",CINEMAX HD
-http://assista.live:80/5528999773199/94596866/123299
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/de887e7a6b3b53aa18e823fec18ad970.png",CINEMAX SD
-http://assista.live:80/5528999773199/94596866/123300
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/76def8007d88f02910542c8d1d2c7091.png",FILME & ARTE FHD
-http://assista.live:80/5528999773199/94596866/123301
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/76def8007d88f02910542c8d1d2c7091.png",FILME & ARTE HD
-http://assista.live:80/5528999773199/94596866/123302
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b8b5089c70ae62534970e2d8aa67e96d.png",FX FHD
-http://assista.live:80/5528999773199/94596866/123303
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b8b5089c70ae62534970e2d8aa67e96d.png",FX HD
-http://assista.live:80/5528999773199/94596866/123304
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b8b5089c70ae62534970e2d8aa67e96d.png",FX SD
-http://assista.live:80/5528999773199/94596866/123305
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/0c4408d480b783ccb279ea84bedda77a.png",LIFETIME FHD
-http://assista.live:80/5528999773199/94596866/123306
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/0c4408d480b783ccb279ea84bedda77a.png",LIFETIME HD
-http://assista.live:80/5528999773199/94596866/123307
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/0c4408d480b783ccb279ea84bedda77a.png",LIFETIME SD
-http://assista.live:80/5528999773199/94596866/123308
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/06853ea758cbc3864417bd2927656aef.png",MEGAPIX FHD
-http://assista.live:80/5528999773199/94596866/123309
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/06853ea758cbc3864417bd2927656aef.png",MEGAPIX HD
-http://assista.live:80/5528999773199/94596866/123310
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/06853ea758cbc3864417bd2927656aef.png",MEGAPIX SD
-http://assista.live:80/5528999773199/94596866/123311
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/c3b67c23f4aebc82a847be33e685b542.png",PARAMOUNT CHANNEL FHD
-http://assista.live:80/5528999773199/94596866/123312
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/c3b67c23f4aebc82a847be33e685b542.png",PARAMOUNT CHANNEL HD
-http://assista.live:80/5528999773199/94596866/123313
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/c3b67c23f4aebc82a847be33e685b542.png",PARAMOUNT CHANNEL SD
-http://assista.live:80/5528999773199/94596866/123314
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/3cb4c574ad229d4c803c88955561ab27.png",SONY FHD
-http://assista.live:80/5528999773199/94596866/123315
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/3cb4c574ad229d4c803c88955561ab27.png",SONY HD
-http://assista.live:80/5528999773199/94596866/123316
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/3cb4c574ad229d4c803c88955561ab27.png",SONY SD
-http://assista.live:80/5528999773199/94596866/123317
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/60ea32121721b082ec3454c9fe854dce.png",SPACE FHD
-http://assista.live:80/5528999773199/94596866/123318
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/60ea32121721b082ec3454c9fe854dce.png",SPACE HD
-http://assista.live:80/5528999773199/94596866/123319
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/60ea32121721b082ec3454c9fe854dce.png",SPACE SD
-http://assista.live:80/5528999773199/94596866/123320
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/f4612243b64f5a3851e09afadf286c8b.png",STAR CHANNEL FHD
-http://assista.live:80/5528999773199/94596866/123321
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/f4612243b64f5a3851e09afadf286c8b.png",STAR CHANNEL HD
-http://assista.live:80/5528999773199/94596866/123322
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/f4612243b64f5a3851e09afadf286c8b.png",STAR CHANNEL SD
-http://assista.live:80/5528999773199/94596866/123323
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/0050f2e21cd1c9376b84753237d7c245.png",STUDIO UNIVERSAL FHD
-http://assista.live:80/5528999773199/94596866/123327
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/0050f2e21cd1c9376b84753237d7c245.png",STUDIO UNIVERSAL HD
-http://assista.live:80/5528999773199/94596866/123328
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/0050f2e21cd1c9376b84753237d7c245.png",STUDIO UNIVERSAL SD
-http://assista.live:80/5528999773199/94596866/123329
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/45a3cdbc44d52dfbbbed6304985e153a.png",SYFY FHD
-http://assista.live:80/5528999773199/94596866/123330
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/45a3cdbc44d52dfbbbed6304985e153a.png",SYFY HD
-http://assista.live:80/5528999773199/94596866/123331
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/45a3cdbc44d52dfbbbed6304985e153a.png",SYFY SD
-http://assista.live:80/5528999773199/94596866/123332
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/2a6c1b93bb0b8faab9e504fd245d1068.png",TBS FHD
-http://assista.live:80/5528999773199/94596866/123333
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/2a6c1b93bb0b8faab9e504fd245d1068.png",TBS HD
-http://assista.live:80/5528999773199/94596866/123334
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/a9254defaeee8ed5984a923fe47e5ef8.png",TCM HD
-http://assista.live:80/5528999773199/94596866/123335
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/a9254defaeee8ed5984a923fe47e5ef8.png",TCM SD
-http://assista.live:80/5528999773199/94596866/123336
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/a9254defaeee8ed5984a923fe47e5ef8.png",TMC FHD
-http://assista.live:80/5528999773199/94596866/123337
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/6a7ef638f3cacf258370a83d3dc741ff.png",TNT FHD
-http://assista.live:80/5528999773199/94596866/123338
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/6a7ef638f3cacf258370a83d3dc741ff.png",TNT HD
-http://assista.live:80/5528999773199/94596866/123339
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/6a7ef638f3cacf258370a83d3dc741ff.png",TNT SD
-http://assista.live:80/5528999773199/94596866/123340
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/83325be20ecb33376512171493c0d255.png",SÉRIE TNT FHD
-http://assista.live:80/5528999773199/94596866/123341
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/83325be20ecb33376512171493c0d255.png",SÉRIE TNT HD
-http://assista.live:80/5528999773199/94596866/123342
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/83325be20ecb33376512171493c0d255.png",SÉRIE TNT SD
-http://assista.live:80/5528999773199/94596866/123343
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/fb4d6202f338d413741074231eac543f.png",TV BRASIL FHD
-http://assista.live:80/5528999773199/94596866/123344
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://cdn.assistatv.me:80/images/fb4d6202f338d413741074231eac543f.png",TV BRASIL HD
-http://assista.live:80/5528999773199/94596866/123345
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/41fca05fae2d886e2487aa91dc29ae83.png",CANAL UNIVERSAL FHD
-http://assista.live:80/5528999773199/94596866/123346
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/41fca05fae2d886e2487aa91dc29ae83.png",CANAL UNIVERSAL HD
-http://assista.live:80/5528999773199/94596866/123347
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/41fca05fae2d886e2487aa91dc29ae83.png", CANAL UNIVERSAL SD
-http://assista.live:80/5528999773199/94596866/123348
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b3a2f01892369e5b23cf81026937c078.png",WARNER CHANNEL FHD
-http://assista.live:80/5528999773199/94596866/123349
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b3a2f01892369e5b23cf81026937c078.png",WARNER CHANNEL HD
-http://assista.live:80/5528999773199/94596866/123350
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b3a2f01892369e5b23cf81026937c078.png",WARNER CHANNEL SD
-http://assista.live:80/5528999773199/94596866/123351
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/d3a6f364a8fb0167e4f0ef29388452e3.png",CANÇÃO NOVA HD
-http://assista.live:80/5528999773199/94596866/123962
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/19d5fb96c19c6b1f63b1ea3201592d3d.png",EVANGELIZAR
-http://assista.live:80/5528999773199/94596866/123963
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Igreja Mundial FHD
-http://assista.live:80/5528999773199/94596866/123964
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Igreja Universal HD
-http://assista.live:80/5528999773199/94596866/123965
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/9258c67e461b3adcb31c795c60bf3681.png",Novo Tempo
-http://assista.live:80/5528999773199/94596866/123966
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Rede Família FHD
-http://assista.live:80/5528999773199/94596866/123968
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Rede Genesis FHD
-http://assista.live:80/5528999773199/94596866/123969
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Rede Genesis SD
-http://assista.live:80/5528999773199/94596866/123970
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",RS21 FHD
-http://assista.live:80/5528999773199/94596866/123971
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/d138f83777d9a57bf540ed71fb4170ac.png",TV APARECIDA HD
-http://assista.live:80/5528999773199/94596866/123973
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",TV Novo Tempo FHD
-http://assista.live:80/5528999773199/94596866/123978
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",TV PAI ETERNO HD
-http://assista.live:80/5528999773199/94596866/123979
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124108
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124110
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO SD1 DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124112
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124113
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/a7f9c898c812805f26c4ea1e490201da.png",HBO 2 FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124114
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/a7f9c898c812805f26c4ea1e490201da.png",HBO 2 HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124116
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/a7f9c898c812805f26c4ea1e490201da.png",HBO 2 SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124117
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/ece50108e63dc7ec5c30a96084512d3a.png",HBO FAMILY FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124120
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/ece50108e63dc7ec5c30a96084512d3a.png",HBO FAMILY HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124122
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/ece50108e63dc7ec5c30a96084512d3a.png",HBO FAMILY SD1 DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124124
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/ece50108e63dc7ec5c30a96084512d3a.png",HBO FAMILY SD
-http://assista.live:80/5528999773199/94596866/124125
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/c25d798e27b54b4f7eb9ba4b01538b1e.png",HBO MUNDI FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124126
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/c25d798e27b54b4f7eb9ba4b01538b1e.png",HBO MUNDI HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124128
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/c25d798e27b54b4f7eb9ba4b01538b1e.png",HBO MUNDI SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124130
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20bf67665416242e54de08f0616b0aec.png",HBO PLUS FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124132
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20bf67665416242e54de08f0616b0aec.png",HBO PLUS HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124134
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/20bf67665416242e54de08f0616b0aec.png",HBO PLUS SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124136
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/53f758a55138eb58adedf440c681e94f.png",HBO POP FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124138
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/53f758a55138eb58adedf440c681e94f.png",HBO POP HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124140
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/53f758a55138eb58adedf440c681e94f.png",HBO POP SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124142
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/80985160838349605d526c33d42d2ce4.png",HBO SIGNATURE FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124144
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/80985160838349605d526c33d42d2ce4.png",HBO SIGNATURE HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124146
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/80985160838349605d526c33d42d2ce4.png",HBO SIGNATURE SD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124148
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/dfd8cd7272155a55a723969fa4c3c863.png",HBO XTREME FHD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124150
-#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://assisista.live:80/images/dfd8cd7272155a55a723969fa4c3c863.png",HBO XTREME HD DUAL AUDIO
-http://assista.live:80/5528999773199/94596866/124152
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/042dba4d2faaa29cd2fa4c0125416d25.png",AXN 4K
-http://assista.live:80/5528999773199/94596866/124742
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/574ff4699083ce51de0dabcfad5edc4c.png",Banda 4K
-http://assista.live:80/5528999773199/94596866/124743
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/87dfc97a7654b4b7ad9f04767361eca9.png",Cartoon Network 4K
-http://assista.live:80/5528999773199/94596866/124744
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/f0703a2da7ddcb681772b1780c7601ff.png",CNN Brasil 4K
-http://assista.live:80/5528999773199/94596866/124745
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/758d8b1cbf0b6cee37110825fead0f77.png",Combate 4K
-http://assista.live:80/5528999773199/94596866/124746
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png",Comedy Central 4K
-http://assista.live:80/5528999773199/94596866/124747
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/56119663bd5f6197c09952cc2fdd6710.png",Discovery Channel 4K
-http://assista.live:80/5528999773199/94596866/124748
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/c5a314670b6976dba193aa4e344f2cd4.png",Discovery H&H 4K
-http://assista.live:80/5528999773199/94596866/124749
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/e1abf698c32f4da899e68adbe4e3b05f.png",Discovery Turbo 4K
-http://assista.live:80/5528999773199/94596866/124750
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/2a9c4f7879157b2df1b7d6b55991f280.png",ESPN 4 4K
-http://assista.live:80/5528999773199/94596866/124751
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN 4K
-http://assista.live:80/5528999773199/94596866/124752
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/e940ab68d99af92722f0ca0caf5fb559.png",Gazeta 4K
-http://assista.live:80/5528999773199/94596866/124753
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/909f6c90b6db150078092be31dc47ffd.png",Globo 4K
-http://assista.live:80/5528999773199/94596866/124754
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/67430e342bdacf60aa10602b5967ec85.png",Globo News 4K
-http://assista.live:80/5528999773199/94596866/124755
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/220ab163e14012078b669a75ffbe66c8.png",GNT 4K
-http://assista.live:80/5528999773199/94596866/124756
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/20590cac6bdbb1d87c1d1587da998b23.png",HBO 4K
-http://assista.live:80/5528999773199/94596866/124757
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/06853ea758cbc3864417bd2927656aef.png",Megapix 4K
-http://assista.live:80/5528999773199/94596866/124758
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/1c4e4e0193fe90eec2bd20a3d3a3ff22.png",Multishow 4K
-http://assista.live:80/5528999773199/94596866/124759
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/f9061c787749de433e7d9e94febf0785.png",National Geographics 4K
-http://assista.live:80/5528999773199/94596866/124760
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/430d54b50faab261c0529be2db0c257a.png",Premiere Clubes 4K
-http://assista.live:80/5528999773199/94596866/124761
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/de17f0f24b49f8364187891f8550ffbb.png",Gravar 4K
-http://assista.live:80/5528999773199/94596866/124762
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",Rede TV! 4K
-http://assista.live:80/5528999773199/94596866/124763
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/eadc1bacb17aea28d29fefc19868b5e1.png",SBT 4K
-http://assista.live:80/5528999773199/94596866/124764
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/c16917f112562bfdcf91039476a2cbc9.png",SporTV 4K
-http://assista.live:80/5528999773199/94596866/124765
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/f4612243b64f5a3851e09afadf286c8b.png",Star Channel 4K
-http://assista.live:80/5528999773199/94596866/124766
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/b7ac7dc3145b2be99f99cf133e57b8ab.png",TeleCine Action 4K
-http://assista.live:80/5528999773199/94596866/124767
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",Telecine Pipoca 4K
-http://assista.live:80/5528999773199/94596866/124768
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",Telecine Premium 4K
-http://assista.live:80/5528999773199/94596866/124769
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/e52721f0b4560e0923057bc62e924009.png",TNT 4K
-http://assista.live:80/5528999773199/94596866/124770
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/83325be20ecb33376512171493c0d255.png",Série TNT 4K
-http://assista.live:80/5528999773199/94596866/124771
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://cdn.assistatv.me:80/images/41fca05fae2d886e2487aa91dc29ae83.png",Canal Universal 4K
-http://assista.live:80/5528999773199/94596866/124772
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/d8451360c9eb181a3fbd8e1e4e3e6ea2.png",Viva 4K
-http://assista.live:80/5528999773199/94596866/124773
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET FHD
-http://assista.live:80/5528999773199/94596866/124856
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET HD
-http://assista.live:80/5528999773199/94596866/124858
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET SD
-http://assista.live:80/5528999773199/94596866/124860
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/5d4be8a028d528b115c4997f9bcc8c08.png",DISCOVERY CHANNEL FHD
-http://assista.live:80/5528999773199/94596866/124862
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/5d4be8a028d528b115c4997f9bcc8c08.png",DISCOVERY CHANNEL HD
-http://assista.live:80/5528999773199/94596866/124864
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/5d4be8a028d528b115c4997f9bcc8c08.png",DISCOVERY CHANNEL SD
-http://assista.live:80/5528999773199/94596866/124866
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/c5a314670b6976dba193aa4e344f2cd4.png",DISCOVERY HOME & HEALTH FHD
-http://assista.live:80/5528999773199/94596866/124868
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/c5a314670b6976dba193aa4e344f2cd4.png",DISCOVERY HOME & HEALTH HD
-http://assista.live:80/5528999773199/94596866/124870
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/c5a314670b6976dba193aa4e344f2cd4.png",DISCOVERY CASA & SAÚDE SD
-http://assista.live:80/5528999773199/94596866/124872
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/09189c6bda55b3b599b52db11f3541fd.png",DISCOVERY SCIENCE FHD
-http://assista.live:80/5528999773199/94596866/124874
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/09189c6bda55b3b599b52db11f3541fd.png",DISCOVERY SCIENCE HD
-http://assista.live:80/5528999773199/94596866/124876
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/09189c6bda55b3b599b52db11f3541fd.png",DISCOVERY SCIENCE SD
-http://assista.live:80/5528999773199/94596866/124878
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/c02e20b3a5e776914050a01c27e07146.png",DISCOVERY THEATRE FHD
-http://assista.live:80/5528999773199/94596866/124880
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/c02e20b3a5e776914050a01c27e07146.png",DISCOVERY THEATRE HD
-http://assista.live:80/5528999773199/94596866/124882
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/c02e20b3a5e776914050a01c27e07146.png",DISCOVERY THEATRE SD
-http://assista.live:80/5528999773199/94596866/124884
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png",DISCOVERY TLC FHD
-http://assista.live:80/5528999773199/94596866/124885
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png",DISCOVERY TLC HD
-http://assista.live:80/5528999773199/94596866/124886
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png",DISCOVERY TLC SD
-http://assista.live:80/5528999773199/94596866/124887
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e1abf698c32f4da899e68adbe4e3b05f.png",DISCOVERY TURBO FHD
-http://assista.live:80/5528999773199/94596866/124889
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e1abf698c32f4da899e68adbe4e3b05f.png",DISCOVERY TURBO HD
-http://assista.live:80/5528999773199/94596866/124891
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e1abf698c32f4da899e68adbe4e3b05f.png",DISCOVERY TURBO SD
-http://assista.live:80/5528999773199/94596866/124893
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",DISCOVERY WORLD FHD
-http://assista.live:80/5528999773199/94596866/124895
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",DISCOVERY WORLD HD
-http://assista.live:80/5528999773199/94596866/124897
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",DISCOVERY WORLD SD
-http://assista.live:80/5528999773199/94596866/124899
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/ce70575f7ed3bb212ae01274838f02ea.png",H2 FHD
-http://assista.live:80/5528999773199/94596866/124901
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/ce70575f7ed3bb212ae01274838f02ea.png",H2 HD
-http://assista.live:80/5528999773199/94596866/124903
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/ce70575f7ed3bb212ae01274838f02ea.png",H2 SD
-http://assista.live:80/5528999773199/94596866/124905
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/a88239c0a807add99a35d34163dd1ecb.png",HGTV FHD
-http://assista.live:80/5528999773199/94596866/124906
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/a88239c0a807add99a35d34163dd1ecb.png",HGTV HD
-http://assista.live:80/5528999773199/94596866/124907
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/a88239c0a807add99a35d34163dd1ecb.png",HGTV SD
-http://assista.live:80/5528999773199/94596866/124908
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png",HISTÓRICO CANAL FHD
-http://assista.live:80/5528999773199/94596866/124910
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png",HISTÓRICO CANAL HD
-http://assista.live:80/5528999773199/94596866/124912
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/5d83de1c9f32e1adaf68625c99c29ac4.png",HISTÓRICO CANAL SD
-http://assista.live:80/5528999773199/94596866/124914
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e20104c7f23b18223c74cd43f6aefb0a.png",ID - INVESTIGAÇÃO DISCOVERY FHD
-http://assista.live:80/5528999773199/94596866/124916
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e20104c7f23b18223c74cd43f6aefb0a.png",ID - INVESTIGAÇÃO DISCOVERY HD
-http://assista.live:80/5528999773199/94596866/124918
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/e20104c7f23b18223c74cd43f6aefb0a.png",ID - INVESTIGAÇÃO DISCOVERY SD
-http://assista.live:80/5528999773199/94596866/124920
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/f9061c787749de433e7d9e94febf0785.png",NACIONAL GEOGRÁFICO FHD
-http://assista.live:80/5528999773199/94596866/124922
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/f9061c787749de433e7d9e94febf0785.png",NACIONAL GEOGRÁFICO HD
-http://assista.live:80/5528999773199/94596866/124924
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/f9061c787749de433e7d9e94febf0785.png",SD GEOGRÁFICO NACIONAL
-http://assista.live:80/5528999773199/94596866/124926
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",AGROBRASIL tv
-http://assista.live:80/5528999773199/94596866/124941
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/840877e866c9393ba622e7f035d44132.png",ARTE 1 FHD2
-http://assista.live:80/5528999773199/94596866/124945
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/840877e866c9393ba622e7f035d44132.png",ARTE 1 HD2
-http://assista.live:80/5528999773199/94596866/124947
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/840877e866c9393ba622e7f035d44132.png",ARTE 1 SD2
-http://assista.live:80/5528999773199/94596866/124949
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f874a3540c84daa7e6e0e3ea543365bf.png",BIS FHD2
-http://assista.live:80/5528999773199/94596866/124952
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f874a3540c84daa7e6e0e3ea543365bf.png",BIS HD2
-http://assista.live:80/5528999773199/94596866/124954
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f874a3540c84daa7e6e0e3ea543365bf.png",BIS SD2
-http://assista.live:80/5528999773199/94596866/124956
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/b24d15d9b5511c0f55ea1bd06d2263ec.png",CANAL BRASIL FHD2
-http://assista.live:80/5528999773199/94596866/124964
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/b24d15d9b5511c0f55ea1bd06d2263ec.png",CANAL BRASIL HD2
-http://assista.live:80/5528999773199/94596866/124966
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/4fe889022397bc870393545d655b8a74.png",CANAL DO BOI
-http://assista.live:80/5528999773199/94596866/124968
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f99d0356e21c8fc5d4f0595701a1220d.png",CANAL RURAL
-http://assista.live:80/5528999773199/94596866/124969
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png",COMEDY CENTRAL FHD2
-http://assista.live:80/5528999773199/94596866/124981
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png",COMEDY CENTRAL HD2
-http://assista.live:80/5528999773199/94596866/124983
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png",COMEDY CENTRAL SD2
-http://assista.live:80/5528999773199/94596866/124985
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/68ef98a842ea7438f59287715fa6cc24.png",CURTA!
-http://assista.live:80/5528999773199/94596866/124986
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",CURTA! HD2
-http://assista.live:80/5528999773199/94596866/124989
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/983109053e89f54e4a894cbd5712c3ae.png",DOG tv
-http://assista.live:80/5528999773199/94596866/124993
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/3a3ea00cfc35332cedf6e5e9a32e94da.png",E! FHD2
-http://assista.live:80/5528999773199/94596866/124995
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/3a3ea00cfc35332cedf6e5e9a32e94da.png",E! HD2
-http://assista.live:80/5528999773199/94596866/124997
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/3a3ea00cfc35332cedf6e5e9a32e94da.png",E! SD2
-http://assista.live:80/5528999773199/94596866/124999
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/dc68fdfdee58a3695af2a751f9f646de.png",MODA tv HD2
-http://assista.live:80/5528999773199/94596866/125000
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/cc9284597026dcc021735c0970ca0c93.png",REDE ALIMENTAR FHD2
-http://assista.live:80/5528999773199/94596866/125002
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/cc9284597026dcc021735c0970ca0c93.png",REDE ALIMENTAR HD2
-http://assista.live:80/5528999773199/94596866/125004
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/cc9284597026dcc021735c0970ca0c93.png",REDE ALIMENTAR SD2
-http://assista.live:80/5528999773199/94596866/125006
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/fe47a810c32b433be0cbed8b26d91d6f.png",GNT FHD2
-http://assista.live:80/5528999773199/94596866/125009
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/fe47a810c32b433be0cbed8b26d91d6f.png",GNT HD2
-http://assista.live:80/5528999773199/94596866/125011
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://assisista.live:80/images/fe47a810c32b433be0cbed8b26d91d6f.png",GNT SD
-http://assista.live:80/5528999773199/94596866/125013
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://assisista.live:80/images/b61098f059c885d44a2d274e634da789.png",MODO VIAGEM FHD
-http://assista.live:80/5528999773199/94596866/125026
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://assisista.live:80/images/b61098f059c885d44a2d274e634da789.png",MODO VIAGEM HD
-http://assista.live:80/5528999773199/94596866/125027
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://assisista.live:80/images/b61098f059c885d44a2d274e634da789.png",MODO VIAGEM SD
-http://assista.live:80/5528999773199/94596866/125028
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Mtv 00s HD2
-http://assista.live:80/5528999773199/94596866/125030
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/af2e3a1d4410e98cabff505c0ecc40bd.png",Mtv FHD2
-http://assista.live:80/5528999773199/94596866/125032
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/af2e3a1d4410e98cabff505c0ecc40bd.png",Mtv HD2
-http://assista.live:80/5528999773199/94596866/125034
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/af2e3a1d4410e98cabff505c0ecc40bd.png",Mtv LIVE FHD2
-http://assista.live:80/5528999773199/94596866/125035
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/af2e3a1d4410e98cabff505c0ecc40bd.png",Mtv LIVE HD2
-http://assista.live:80/5528999773199/94596866/125036
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/af2e3a1d4410e98cabff505c0ecc40bd.png",Mtv LIVE SD2
-http://assista.live:80/5528999773199/94596866/125037
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/af2e3a1d4410e98cabff505c0ecc40bd.png",Mtv SD2
-http://assista.live:80/5528999773199/94596866/125039
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/1c4e4e0193fe90eec2bd20a3d3a3ff22.png",MULTISHOW FHD2
-http://assista.live:80/5528999773199/94596866/125041
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/1c4e4e0193fe90eec2bd20a3d3a3ff22.png",MULTISHOW HD2
-http://assista.live:80/5528999773199/94596866/125043
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/1c4e4e0193fe90eec2bd20a3d3a3ff22.png",MULTISHOW SD2
-http://assista.live:80/5528999773199/94596866/125045
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",MUSIC BOX BRASIL FHD
-http://assista.live:80/5528999773199/94596866/125046
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",MUSIC BOX BRASIL SD
-http://assista.live:80/5528999773199/94596866/125047
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/a80788d7d5c24b51a8e637bb9f19661b.png",MUSIC BOX BRASIL HD
-http://assista.live:80/5528999773199/94596866/125048
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",MUSIC TOP HD2
-http://assista.live:80/5528999773199/94596866/125049
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/ee0f56146b86043b57c30df0902094e0.png",PRIME BOX BRASIL
-http://assista.live:80/5528999773199/94596866/125055
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/ee0f56146b86043b57c30df0902094e0.png",PRIME BOX BRASIL FHD2
-http://assista.live:80/5528999773199/94596866/125056
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/ee0f56146b86043b57c30df0902094e0.png",PRIME BOX BRASIL SD2
-http://assista.live:80/5528999773199/94596866/125057
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Sabor & Arte HD2
-http://assista.live:80/5528999773199/94596866/125063
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/559992f7652a1d0c206d4c0509f328d4.png",TERRA VIVA HD2
-http://assista.live:80/5528999773199/94596866/125068
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/d691408403946af9da4ccf6e70ba316d.png",TRAVEL BOX BRASIL HD2
-http://assista.live:80/5528999773199/94596866/125070
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://i.imgur.com/ZdSD2atP.png",TRU TV FHD2
-http://assista.live:80/5528999773199/94596866/125071
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://i.imgur.com/ZdSD2atP.png",TRU TV HD2
-http://assista.live:80/5528999773199/94596866/125072
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/919f22775506e6f5914d6f3aea8ba30b.png",TV ESCOLA
-http://assista.live:80/5528999773199/94596866/125078
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/e940ab68d99af92722f0ca0caf5fb559.png",TV ESCOLA HD2
-http://assista.live:80/5528999773199/94596866/125079
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://1.bp.blogspot.com/-gzJ5_MSSOwg/XuaF6AmkuEI/AAAAAAAAGTc/fDaVktznrYkMT0WeqzSD2BUlpltn87s3qQCK4BGAYYCw/s1600/VIVA.png",VIVA FHD 2
-http://assista.live:80/5528999773199/94596866/125092
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://1.bp.blogspot.com/-gzJ5_MSSOwg/XuaF6AmkuEI/AAAAAAAAGTc/fDaVktznrYkMT0WeqzSD2BUlpltn87s3qQCK4BGAYYCw/s1600/VIVA.png",VIVA HD2
-http://assista.live:80/5528999773199/94596866/125094
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://1.bp.blogspot.com/-gzJ5_MSSOwg/XuaF6AmkuEI/AAAAAAAAGTc/fDaVktznrYkMT0WeqzSD2BUlpltn87s3qQCK4BGAYYCw/s1600/VIVA.png",VIVA SD2
-http://assista.live:80/5528999773199/94596866/125096
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/0d0add97097fbf7893087628353afb49.png",WOOHOO FHD2
-http://assista.live:80/5528999773199/94596866/125098
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/0d0add97097fbf7893087628353afb49.png",WOOHOO HD2
-http://assista.live:80/5528999773199/94596866/125100
-#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="http://cdn.assistatv.me:80/images/0d0add97097fbf7893087628353afb49.png",WOOHOO SD2
-http://assista.live:80/5528999773199/94596866/125102
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/45914664eafc286fb139a5036f142106.png",BABY TV FHD
-http://assista.live:80/5528999773199/94596866/125103
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/45914664eafc286fb139a5036f142106.png",BABY TV HD
-http://assista.live:80/5528999773199/94596866/125105
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/45914664eafc286fb139a5036f142106.png",BABY TV SD
-http://assista.live:80/5528999773199/94596866/125106
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/87dfc97a7654b4b7ad9f04767361eca9.png",CARTOON NETWORK FHD
-http://assista.live:80/5528999773199/94596866/125111
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/87dfc97a7654b4b7ad9f04767361eca9.png",CARTOON NETWORK HD
-http://assista.live:80/5528999773199/94596866/125113
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/87dfc97a7654b4b7ad9f04767361eca9.png",CARTOON NETWORK SD
-http://assista.live:80/5528999773199/94596866/125115
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/d31e4bdd842e9ef237a66d87674fbace.png",Cartoonito FHD
-http://assista.live:80/5528999773199/94596866/125116
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/d31e4bdd842e9ef237a66d87674fbace.png",Cartoonito HD
-http://assista.live:80/5528999773199/94596866/125117
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/d31e4bdd842e9ef237a66d87674fbace.png",Cartoonito SD
-http://assista.live:80/5528999773199/94596866/125118
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/7ec7090630903c76f7c4d1771c873b1f.png",DISCOVERY KIDS FHD
-http://assista.live:80/5528999773199/94596866/125120
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/7ec7090630903c76f7c4d1771c873b1f.png",DISCOVERY KIDS HD
-http://assista.live:80/5528999773199/94596866/125122
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/7ec7090630903c76f7c4d1771c873b1f.png",DISCOVERY KIDS SD
-http://assista.live:80/5528999773199/94596866/125124
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/6bee7677af2813c27e06499b0ac63cce.png",DISNEY CHANNEL FHD
-http://assista.live:80/5528999773199/94596866/125126
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/6bee7677af2813c27e06499b0ac63cce.png",DISNEY CHANNEL HD
-http://assista.live:80/5528999773199/94596866/125128
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/6bee7677af2813c27e06499b0ac63cce.png",DISNEY CHANNEL SD
-http://assista.live:80/5528999773199/94596866/125130
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/5e2247ab07fc3f9f14af2655d76039a6.png",GLOOB FHD
-http://assista.live:80/5528999773199/94596866/125144
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/5e2247ab07fc3f9f14af2655d76039a6.png",GLOOB HD
-http://assista.live:80/5528999773199/94596866/125146
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/5e2247ab07fc3f9f14af2655d76039a6.png",GLOOB SD
-http://assista.live:80/5528999773199/94596866/125148
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/2c13e7273e8f104b4db20105cb60c945.png",GLOOBINHO FHD
-http://assista.live:80/5528999773199/94596866/125150
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/2c13e7273e8f104b4db20105cb60c945.png",GLOOBINHO HD
-http://assista.live:80/5528999773199/94596866/125152
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/2c13e7273e8f104b4db20105cb60c945.png",GLOOBINHO SD
-http://assista.live:80/5528999773199/94596866/125154
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/913c4858c66af34fc5575fcb46f3fecb.png",NICK JR FHD
-http://assista.live:80/5528999773199/94596866/125162
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/913c4858c66af34fc5575fcb46f3fecb.png",NICK JR HD
-http://assista.live:80/5528999773199/94596866/125164
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/913c4858c66af34fc5575fcb46f3fecb.png",NICK JR SD
-http://assista.live:80/5528999773199/94596866/125166
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/e2e42a07550863f8b67f5eb252581f6d.png",NICKELODEON FHD
-http://assista.live:80/5528999773199/94596866/125168
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/e2e42a07550863f8b67f5eb252581f6d.png",NICKELODEON HD
-http://assista.live:80/5528999773199/94596866/125170
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/e2e42a07550863f8b67f5eb252581f6d.png",NICKELODEON SD
-http://assista.live:80/5528999773199/94596866/125172
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/842bb72b9cc9ef8c86459a5101fb8673.png",TOONCAST FHD
-http://assista.live:80/5528999773199/94596866/125174
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/842bb72b9cc9ef8c86459a5101fb8673.png",TOONCAST HD
-http://assista.live:80/5528999773199/94596866/125176
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/842bb72b9cc9ef8c86459a5101fb8673.png",TOONCAST SD
-http://assista.live:80/5528999773199/94596866/125178
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/f0e51d1784731dd05b8e98635c2afd7d.png",TV RÁ TIM BUM! HD
-http://assista.live:80/5528999773199/94596866/125180
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/f0e51d1784731dd05b8e98635c2afd7d.png",TV RÁ TIM BUM! alta definição
-http://assista.live:80/5528999773199/94596866/125182
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/f0e51d1784731dd05b8e98635c2afd7d.png",TV RÁ TIM BUM! SD
-http://assista.live:80/5528999773199/94596866/125184
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/8478905a623b125018b784f5c5cc94ba.png",ZOOMO FHD
-http://assista.live:80/5528999773199/94596866/125185
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/8478905a623b125018b784f5c5cc94ba.png",ZOOMOO HD
-http://assista.live:80/5528999773199/94596866/125188
-#EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="http://assisista.live:80/images/8478905a623b125018b784f5c5cc94ba.png",ZOOMOO SD
-http://assista.live:80/5528999773199/94596866/125190
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/9c6af5c3ff24dac5945c7397daa43466.png",BAND NEWS FHD2
-http://assista.live:80/5528999773199/94596866/125192
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/9c6af5c3ff24dac5945c7397daa43466.png",BAND NEWS HD2
-http://assista.live:80/5528999773199/94596866/125194
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://cdn.assistatv.me:80/images/9c6af5c3ff24dac5945c7397daa43466.png",BAND NEWS SD2
-http://assista.live:80/5528999773199/94596866/125196
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/d74c9f8ddee055581e2e5fece67ef390.png",CBN SÃO PAULO
-http://assista.live:80/5528999773199/94596866/125198
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/f0703a2da7ddcb681772b1780c7601ff.png",CNN BRASIL FHD
-http://assista.live:80/5528999773199/94596866/125200
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/f0703a2da7ddcb681772b1780c7601ff.png",CNN BRASIL HD
-http://assista.live:80/5528999773199/94596866/125202
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/f0703a2da7ddcb681772b1780c7601ff.png",CNN BRASIL SD
-http://assista.live:80/5528999773199/94596866/125204
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/67430e342bdacf60aa10602b5967ec85.png",GLOBO NEWS FHD
-http://assista.live:80/5528999773199/94596866/125217
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/67430e342bdacf60aa10602b5967ec85.png",GLOBO NEWS HD
-http://assista.live:80/5528999773199/94596866/125219
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/67430e342bdacf60aa10602b5967ec85.png",GLOBO NEWS SD
-http://assista.live:80/5528999773199/94596866/125221
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://cdn.assistatv.me:80/images/246203778e19a29296dc594a84de9948.png",JOVEM PAN NEWS HD2
-http://assista.live:80/5528999773199/94596866/125225
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://cdn.assistatv.me:80/images/246203778e19a29296dc594a84de9948.png",JOVEM PAN NEWS SD2
-http://assista.live:80/5528999773199/94596866/125226
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/b42c43a34aa12f292e470108265ddb3b.png",RECORD NOTÍCIAS FHD
-http://assista.live:80/5528999773199/94596866/125228
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/b42c43a34aa12f292e470108265ddb3b.png",GRAVAR NOTÍCIAS HD
-http://assista.live:80/5528999773199/94596866/125230
-#EXTINF:-1 group-title="CANAIS | NOTICIAS" tvg-logo="http://assisista.live:80/images/b42c43a34aa12f292e470108265ddb3b.png",RECORDAR NOTÍCIAS SD
-http://assista.live:80/5528999773199/94596866/125232
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 01 FHD
-http://assista.live:80/5528999773199/94596866/125234
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 02 FHD
-http://assista.live:80/5528999773199/94596866/125236
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 03 FHD
-http://assista.live:80/5528999773199/94596866/125238
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 04 FHD
-http://assista.live:80/5528999773199/94596866/125240
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 06 FHD
-http://assista.live:80/5528999773199/94596866/125244
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 07 FHD
-http://assista.live:80/5528999773199/94596866/125246
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 08 FHD
-http://assista.live:80/5528999773199/94596866/125248
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 09 FHD
-http://assista.live:80/5528999773199/94596866/125250
-#EXTINF:-1 group-title="CANAIS | SKY PLAY" tvg-logo="http://assisista.live:80/images/4c774bf696c3ec23cb91d9bbedf955e5.png",SKY PLAY 10 FHD
-http://assista.live:80/5528999773199/94596866/125252
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Cine Sucessos
-http://assista.live:80/5528999773199/94596866/125255
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Filmes Ação
-http://assista.live:80/5528999773199/94596866/125256
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Cine Comédia
-http://assista.live:80/5528999773199/94596866/125257
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Plutão TV Cine Drama
-http://assista.live:80/5528999773199/94596866/125258
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Plutão TV Cine Romance
-http://assista.live:80/5528999773199/94596866/125259
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Filmes Suspense
-http://assista.live:80/5528999773199/94596866/125260
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Cine Terror
-http://assista.live:80/5528999773199/94596866/125261
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Filmes Nacionais
-http://assista.live:80/5528999773199/94596866/125262
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Cine Clássicos
-http://assista.live:80/5528999773199/94596866/125263
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Cine Família
-http://assista.live:80/5528999773199/94596866/125264
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Paramount+ Apresenta
-http://assista.live:80/5528999773199/94596866/125265
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Série de TV Plutão
-http://assista.live:80/5528999773199/94596866/125266
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Jeannie é um Gênio
-http://assista.live:80/5528999773199/94596866/125267
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Retrô
-http://assista.live:80/5528999773199/94596866/125268
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Jovem Pan Plutão TV
-http://assista.live:80/5528999773199/94596866/125270
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Nosey Escândalos
-http://assista.live:80/5528999773199/94596866/125271
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",BET Plutão TV
-http://assista.live:80/5528999773199/94596866/125272
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",APOSTA Sendo Mary Jane
-http://assista.live:80/5528999773199/94596866/125273
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",MTV Plutão TV
-http://assista.live:80/5528999773199/94596866/125274
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",MTV Com o Ex
-http://assista.live:80/5528999773199/94596866/125275
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",MTV Você é o único?
-http://assista.live:80/5528999773199/94596866/125276
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Jovem
-http://assista.live:80/5528999773199/94596866/125278
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Nick Teen
-http://assista.live:80/5528999773199/94596866/125279
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Kenan & Kel
-http://assista.live:80/5528999773199/94596866/125280
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",MasterChef
-http://assista.live:80/5528999773199/94596866/125281
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Euronews Português
-http://assista.live:80/5528999773199/94596866/125282
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Plutão TV Record News
-http://assista.live:80/5528999773199/94596866/125283
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Mistérios
-http://assista.live:80/5528999773199/94596866/125284
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pronto-socorro: Histórias De Emergência
-http://assista.live:80/5528999773199/94596866/125285
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Minha Obsessão Favorita
-http://assista.live:80/5528999773199/94596866/125286
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Vida Real
-http://assista.live:80/5528999773199/94596866/125287
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Natureza
-http://assista.live:80/5528999773199/94596866/125288
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Paisagens por Stingray
-http://assista.live:80/5528999773199/94596866/125289
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",O Encantador de Cães
-http://assista.live:80/5528999773199/94596866/125290
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Investigação
-http://assista.live:80/5528999773199/94596866/125291
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Plutão TV Anime
-http://assista.live:80/5528999773199/94596866/125292
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Anime Ação
-http://assista.live:80/5528999773199/94596866/125293
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Naruto
-http://assista.live:80/5528999773199/94596866/125294
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Tokusato
-http://assista.live:80/5528999773199/94596866/125295
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",FUEL TV
-http://assista.live:80/5528999773199/94596866/125296
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",FailArmy
-http://assista.live:80/5528999773199/94596866/125297
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",O Coletivo Pet
-http://assista.live:80/5528999773199/94596866/125298
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Comédia
-http://assista.live:80/5528999773199/94596866/125299
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Comedy Central Plutão TV
-http://assista.live:80/5528999773199/94596866/125300
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Comedy Central South Park
-http://assista.live:80/5528999773199/94596866/125301
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Porta dos Fundos
-http://assista.live:80/5528999773199/94596866/125302
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Estilo de Vida
-http://assista.live:80/5528999773199/94596866/125303
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Tastemade
-http://assista.live:80/5528999773199/94596866/125304
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Fashionstream
-http://assista.live:80/5528999773199/94596866/125305
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Babyfirst
-http://assista.live:80/5528999773199/94596866/125306
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Junior
-http://assista.live:80/5528999773199/94596866/125307
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Nick Jr.
-http://assista.live:80/5528999773199/94596866/125308
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",As Pistas de Azul
-http://assista.live:80/5528999773199/94596866/125309
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",O Reino Infantil
-http://assista.live:80/5528999773199/94596866/125310
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Turma da Mônica
-http://assista.live:80/5528999773199/94596866/125311
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Kids
-http://assista.live:80/5528999773199/94596866/125312
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Nick Clássico
-http://assista.live:80/5528999773199/94596866/125313
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",A vida moderna de Rocko
-http://assista.live:80/5528999773199/94596866/125314
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Rugrats
-http://assista.live:80/5528999773199/94596866/125315
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",As Aventuras de Jackie Chan
-http://assista.live:80/5528999773199/94596866/125316
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Shows por Stingray
-http://assista.live:80/5528999773199/94596866/125317
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Pluto TV Karaokê por Stingray
-http://assista.live:80/5528999773199/94596866/125318
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",Maior Pop da MTV
-http://assista.live:80/5528999773199/94596866/125319
-#EXTINF:-1 group-title="CANAIS | PLUTO TV" tvg-logo="http://cdn.assistatv.me:80/images/4696227a76f7127c791ab229806524f9.png",MTV Spankin' New
-http://assista.live:80/5528999773199/94596866/125320
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/124878d2fbbb79854692a54237862193.png",BAND SPORTS FHD
-http://assista.live:80/5528999773199/94596866/125322
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/124878d2fbbb79854692a54237862193.png",BAND SPORTS HD
-http://assista.live:80/5528999773199/94596866/125324
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png",COMBATE FHD
-http://assista.live:80/5528999773199/94596866/125328
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png",COMBATE HD
-http://assista.live:80/5528999773199/94596866/125330
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png",COMBATE SD
-http://assista.live:80/5528999773199/94596866/125332
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/f7efb8187bdad141ef8b540268e634f1.png",FISH TV FHD
-http://assista.live:80/5528999773199/94596866/125334
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/f7efb8187bdad141ef8b540268e634f1.png",FISH TV HD
-http://assista.live:80/5528999773199/94596866/125336
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/f7efb8187bdad141ef8b540268e634f1.png",FISH TV SD
-http://assista.live:80/5528999773199/94596866/125338
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png",FOX SPORTS 2 FHD
-http://assista.live:80/5528999773199/94596866/125341
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png",FOX SPORTS 2 HD
-http://assista.live:80/5528999773199/94596866/125343
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png",FOX SPORTS 2 SD
-http://assista.live:80/5528999773199/94596866/125344
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png",FOX SPORTS 2 SD
-http://assista.live:80/5528999773199/94596866/125345
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/88559a0cfd8250c9d65970cc145c92d4.png",OFF FHD
-http://assista.live:80/5528999773199/94596866/125346
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/88559a0cfd8250c9d65970cc145c92d4.png",OFF HD
-http://assista.live:80/5528999773199/94596866/125348
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://assisista.live:80/images/88559a0cfd8250c9d65970cc145c92d4.png",OFF SD
-http://assista.live:80/5528999773199/94596866/125350
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/aa47a4e507bced4a1d0245d080e67015.png",SPORTV 1 FHD
-http://assista.live:80/5528999773199/94596866/125384
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/aa47a4e507bced4a1d0245d080e67015.png",SPORTV 1 HD
-http://assista.live:80/5528999773199/94596866/125386
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/aa47a4e507bced4a1d0245d080e67015.png",SPORTV 1 SD
-http://assista.live:80/5528999773199/94596866/125388
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/1720b67138d8c44b0e3515690a0dca39.png",SPORTV 2 FHD
-http://assista.live:80/5528999773199/94596866/125390
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/1720b67138d8c44b0e3515690a0dca39.png",SPORTV 2 HD
-http://assista.live:80/5528999773199/94596866/125392
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/1720b67138d8c44b0e3515690a0dca39.png",SPORTV 2 SD
-http://assista.live:80/5528999773199/94596866/125394
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png",SPORTV 3 FHD
-http://assista.live:80/5528999773199/94596866/125396
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png",SPORTV 3 HD
-http://assista.live:80/5528999773199/94596866/125398
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png",SPORTV 3 SD
-http://assista.live:80/5528999773199/94596866/125400
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/4473a709761c1a97b385df78c9c7760f.png",SPORTV 4 FHD
-http://assista.live:80/5528999773199/94596866/125401
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/4473a709761c1a97b385df78c9c7760f.png",SPORTV 4 HD
-http://assista.live:80/5528999773199/94596866/125402
-#EXTINF:-1 group-title="CANAIS | SPORTV" tvg-logo="http://assisista.live:80/images/4473a709761c1a97b385df78c9c7760f.png",SPORTV 4 SD
-http://assista.live:80/5528999773199/94596866/125403
-#EXTINF:-1 group-title="CANAIS | CONMEBOL LIBERTADORES" tvg-logo="http://assisista.live:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png",PARAMOUNT+ 1
-http://assista.live:80/5528999773199/94596866/125406
-#EXTINF:-1 group-title="CANAIS | CONMEBOL LIBERTADORES" tvg-logo="http://assisista.live:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png",PARAMOUNT+ 3
-http://assista.live:80/5528999773199/94596866/125414
-#EXTINF:-1 group-title="CANAIS | CONMEBOL LIBERTADORES" tvg-logo="http://assisista.live:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png",PARAMOUNT+ 4
-http://assista.live:80/5528999773199/94596866/125416
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/15fb376f5ed64f8f09d390130d0baace.png",ESPN 1 FHD
-http://assista.live:80/5528999773199/94596866/134011
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/15fb376f5ed64f8f09d390130d0baace.png",ESPN 1 HD
-http://assista.live:80/5528999773199/94596866/134014
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/15fb376f5ed64f8f09d390130d0baace.png",ESPN 1 SD
-http://assista.live:80/5528999773199/94596866/134015
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/a5b2718c75617834e6f20c098405c684.png",ESPN 2 FHD
-http://assista.live:80/5528999773199/94596866/134017
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/a5b2718c75617834e6f20c098405c684.png",ESPN 2 HD
-http://assista.live:80/5528999773199/94596866/134019
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/a5b2718c75617834e6f20c098405c684.png",ESPN 2 SD
-http://assista.live:80/5528999773199/94596866/134021
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/851f18f6e64fdb2e5df1056c2db285af.png",ESPN 3 FHD
-http://assista.live:80/5528999773199/94596866/134023
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/851f18f6e64fdb2e5df1056c2db285af.png",ESPN 3 HD
-http://assista.live:80/5528999773199/94596866/134025
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/851f18f6e64fdb2e5df1056c2db285af.png",ESPN 3 SD
-http://assista.live:80/5528999773199/94596866/134028
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/2a9c4f7879157b2df1b7d6b55991f280.png",ESPN 4 FHD
-http://assista.live:80/5528999773199/94596866/134030
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/2a9c4f7879157b2df1b7d6b55991f280.png",ESPN 4 HD
-http://assista.live:80/5528999773199/94596866/134033
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/2a9c4f7879157b2df1b7d6b55991f280.png",ESPN 4 SD
-http://assista.live:80/5528999773199/94596866/134035
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN EXTRA FHD
-http://assista.live:80/5528999773199/94596866/134037
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN EXTRA HD
-http://assista.live:80/5528999773199/94596866/134038
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="http://assisista.live:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN EXTRA SD2
-http://assista.live:80/5528999773199/94596866/134039
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/6e3e1a3d63cfffee0ea2ff518e5fbbd5.png",CINE CANAL FHD
-http://assista.live:80/5528999773199/94596866/193238
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/6e3e1a3d63cfffee0ea2ff518e5fbbd5.png",CINE CANAL HD
-http://assista.live:80/5528999773199/94596866/193239
-#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/6e3e1a3d63cfffee0ea2ff518e5fbbd5.png",CINE CANAL SD
-http://assista.live:80/5528999773199/94596866/193240
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/4ca25b37a49541f56751ad9ffeebc3b1.png",AMAZON PRIME 01
-http://assista.live:80/5528999773199/94596866/130494
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/4ca25b37a49541f56751ad9ffeebc3b1.png",AMAZON PRIME 02
-http://assista.live:80/5528999773199/94596866/130495
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/4ca25b37a49541f56751ad9ffeebc3b1.png",AMAZON PRIME 03
-http://assista.live:80/5528999773199/94596866/130497
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/11f143f42862896a05a18cde9a8bca35.png",ESTÁDIO TNT SPORTS 1
-http://assista.live:80/5528999773199/94596866/130532
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/11f143f42862896a05a18cde9a8bca35.png",ESTÁDIO TNT SPORTS 3
-http://assista.live:80/5528999773199/94596866/130534
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/11f143f42862896a05a18cde9a8bca35.png",ESTÁDIO TNT SPORTS 4
-http://assista.live:80/5528999773199/94596866/130535
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/530362b68c68d03fb07f344127bcf9dc.png",STAR+ 1 HD1
-http://assista.live:80/5528999773199/94596866/130553
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/530362b68c68d03fb07f344127bcf9dc.png",STAR+ 2 HD1
-http://assista.live:80/5528999773199/94596866/130555
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/530362b68c68d03fb07f344127bcf9dc.png",STAR+ 3 HD1
-http://assista.live:80/5528999773199/94596866/130557
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/530362b68c68d03fb07f344127bcf9dc.png",STAR+ 4 HD
-http://assista.live:80/5528999773199/94596866/130559
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/530362b68c68d03fb07f344127bcf9dc.png",STAR+ 5 HD
-http://assista.live:80/5528999773199/94596866/130560
-#EXTINF:-1 group-title="CANAIS | ESPORTES (PPV)" tvg-logo="http://assisista.live:80/images/530362b68c68d03fb07f344127bcf9dc.png",STAR+ 6 HD
-http://assista.live:80/5528999773199/94596866/130561
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/96e3719098b610412d5c596a98f43d05.png",A&E (H265)
-http://assista.live:80/5528999773199/94596866/130563
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png",AMC (H265)
-http://assista.live:80/5528999773199/94596866/130564
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png",Animal Planet (H265)
-http://assista.live:80/5528999773199/94596866/130565
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/042dba4d2faaa29cd2fa4c0125416d25.png",AXN (H265)
-http://assista.live:80/5528999773199/94596866/130566
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/124878d2fbbb79854692a54237862193.png",BandSports (H265)
-http://assista.live:80/5528999773199/94596866/130568
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f874a3540c84daa7e6e0e3ea543365bf.png",BIS (H265)
-http://assista.live:80/5528999773199/94596866/130569
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/3cb4c574ad229d4c803c88955561ab27.png",Canal Sony (H265)
-http://assista.live:80/5528999773199/94596866/130570
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/d31e4bdd842e9ef237a66d87674fbace.png",Cartoonito (H265)
-http://assista.live:80/5528999773199/94596866/130572
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/87dfc97a7654b4b7ad9f04767361eca9.png",CartoonNetwork (H265)
-http://assista.live:80/5528999773199/94596866/130573
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/de887e7a6b3b53aa18e823fec18ad970.png",Cinemax (H265)
-http://assista.live:80/5528999773199/94596866/130574
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/758d8b1cbf0b6cee37110825fead0f77.png",Combate (H265)
-http://assista.live:80/5528999773199/94596866/130575
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f7029e67f22d8a43ab8d1b3deb896249.png",Comedy Central (H265)
-http://assista.live:80/5528999773199/94596866/130576
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="https://1.bp.blogspot.com/-jOsKBN8bN_I/XxL3ob_XwcI/AAAAAAAAGqQ/A7rJE7xV9Gc87ekkA6iQSD2Rmm1Kg46_0gCK4BGAYYCw/s1600/discovery-channel. png",Descoberta Canal (H265)
-http://assista.live:80/5528999773199/94596866/130577
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/c5a314670b6976dba193aa4e344f2cd4.png",Discovery Home & Health (H265)
-http://assista.live:80/5528999773199/94596866/130578
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/7ec7090630903c76f7c4d1771c873b1f.png",Discovery Kids (H265)
-http://assista.live:80/5528999773199/94596866/130579
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/09189c6bda55b3b599b52db11f3541fd.png",Discovery Science (H265)
-http://assista.live:80/5528999773199/94596866/130580
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/c02e20b3a5e776914050a01c27e07146.png",Teatro Discovery (H265)
-http://assista.live:80/5528999773199/94596866/130581
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e1abf698c32f4da899e68adbe4e3b05f.png",Discovery Turbo (H265)
-http://assista.live:80/5528999773199/94596866/130582
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",Discovery World (H265)
-http://assista.live:80/5528999773199/94596866/130583
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/6bee7677af2813c27e06499b0ac63cce.png",Disney Channel (H265)
-http://assista.live:80/5528999773199/94596866/130584
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/3a3ea00cfc35332cedf6e5e9a32e94da.png",E! (H265)
-http://assista.live:80/5528999773199/94596866/130586
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN (H265)
-http://assista.live:80/5528999773199/94596866/130587
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/70a95177274bcc5babfb08cfc8476f7e.png",ESPN 2 (H265)
-http://assista.live:80/5528999773199/94596866/130588
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/4bdf53db8bf5c0f4e016b07517749da5.png",ESPN Brasil (H265)
-http://assista.live:80/5528999773199/94596866/130589
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhd2Epp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png ",ESPN Extra (H265)
-http://assista.live:80/5528999773199/94596866/130590
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f7efb8187bdad141ef8b540268e634f1.png",Peixe TV (H265)
-http://assista.live:80/5528999773199/94596866/130591
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/cc9284597026dcc021735c0970ca0c93.png",FoodNetwork (H265)
-http://assista.live:80/5528999773199/94596866/130592
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/819df3baaa10c21779015f92bf98f5e3.png",Fox Sports (H265)
-http://assista.live:80/5528999773199/94596866/130593
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png",Fox Sports 2 (H265)
-http://assista.live:80/5528999773199/94596866/130594
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b8b5089c70ae62534970e2d8aa67e96d.png",FX (H265)
-http://assista.live:80/5528999773199/94596866/130595
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/67430e342bdacf60aa10602b5967ec85.png",GloboNews (H265)
-http://assista.live:80/5528999773199/94596866/130596
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/5e2247ab07fc3f9f14af2655d76039a6.png",Gloob (H265)
-http://assista.live:80/5528999773199/94596866/130597
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/220ab163e14012078b669a75ffbe66c8.png",GNT (H265)
-http://assista.live:80/5528999773199/94596866/130598
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b5035b385b4983d6acc8ef1e3f497ad9.png",H2 (H265)
-http://assista.live:80/5528999773199/94596866/130599
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSD2t9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",H BO (H265)
-http://assista.live:80/5528999773199/94596866/130600
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/ece50108e63dc7ec5c30a96084512d3a.png",HBO Familly (H265)
-http://assista.live:80/5528999773199/94596866/130601
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/c25d798e27b54b4f7eb9ba4b01538b1e.png",HBO MUNDI (H265)
-http://assista.live:80/5528999773199/94596866/130602
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/20bf67665416242e54de08f0616b0aec.png",HBO Plus (H265)
-http://assista.live:80/5528999773199/94596866/130603
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/53f758a55138eb58adedf440c681e94f.png",HBO POP (H265)
-http://assista.live:80/5528999773199/94596866/130604
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/80985160838349605d526c33d42d2ce4.png",Assinatura HBO (H265)
-http://assista.live:80/5528999773199/94596866/130605
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/dfd8cd7272155a55a723969fa4c3c863.png",HBO XTREME (H265)
-http://assista.live:80/5528999773199/94596866/130606
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/a88239c0a807add99a35d34163dd1ecb.png",HGTV (H265)
-http://assista.live:80/5528999773199/94596866/130607
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/3cd15f8f2940aff879df34df4e5c2cd1.png",Histórico (H265)
-http://assista.live:80/5528999773199/94596866/130608
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e20104c7f23b18223c74cd43f6aefb0a.png",ID - INVESTIGAÇÃO DISCOVERY (H265)
-http://assista.live:80/5528999773199/94596866/130609
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/0c4408d480b783ccb279ea84bedda77a.png",Vitalício (H265)
-http://assista.live:80/5528999773199/94596866/130610
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/06853ea758cbc3864417bd2927656aef.png",Megapix (H265)
-http://assista.live:80/5528999773199/94596866/130611
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b49882eae96bb41a7fa1feb6aa7acc18.png",MTV (H265)
-http://assista.live:80/5528999773199/94596866/130612
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="https://2.bp.blogspot.com/-YLvYyrLM0telecine./XmQENo4hcuI/AAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO. png", Multishow (H265)
-http://assista.live:80/5528999773199/94596866/130613
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f9061c787749de433e7d9e94febf0785.png",NatGeo (H265)
-http://assista.live:80/5528999773199/94596866/130614
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e2e42a07550863f8b67f5eb252581f6d.png",Nickelodeon (H265)
-http://assista.live:80/5528999773199/94596866/130616
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/913c4858c66af34fc5575fcb46f3fecb.png",NickJr (H265)
-http://assista.live:80/5528999773199/94596866/130617
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/88559a0cfd8250c9d65970cc145c92d4.png",OFF (H265)
-http://assista.live:80/5528999773199/94596866/130618
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/c3b67c23f4aebc82a847be33e685b542.png",Paramount (H265)
-http://assista.live:80/5528999773199/94596866/130619
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/430d54b50faab261c0529be2db0c257a.png",Estreia 1 (H265)
-http://assista.live:80/5528999773199/94596866/130620
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",Premiere2 (H265)
-http://assista.live:80/5528999773199/94596866/130621
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",Premiere3 (H265)
-http://assista.live:80/5528999773199/94596866/130622
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",Premiere4 (H265)
-http://assista.live:80/5528999773199/94596866/130623
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",Premiere5 (H265)
-http://assista.live:80/5528999773199/94596866/130624
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",Premiere6 (H265)
-http://assista.live:80/5528999773199/94596866/130625
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b9b2e266c43e5f7eafa0584427d89c5a.png",Premiere7 (H265)
-http://assista.live:80/5528999773199/94596866/130626
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/60ea32121721b082ec3454c9fe854dce.png",Espaço (H265)
-http://assista.live:80/5528999773199/94596866/130627
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/c16917f112562bfdcf91039476a2cbc9.png",SporTV (H265)
-http://assista.live:80/5528999773199/94596866/130628
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/a6e24fd695f38de85c201457b300e552.png",SporTV 2 (H265)
-http://assista.live:80/5528999773199/94596866/130629
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e74bdb32f9bf1fa8e58385dc3b1ce015.png",SporTV 3 (H265)
-http://assista.live:80/5528999773199/94596866/130630
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/2e43051744b05ef2c73d8b11bddd9a29.png",SporTv 4 (H.265)
-http://assista.live:80/5528999773199/94596866/130631
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f4612243b64f5a3851e09afadf286c8b.png",Canal Estrela (H265)
-http://assista.live:80/5528999773199/94596866/130632
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/0050f2e21cd1c9376b84753237d7c245.png",Estúdio Universal (H265)
-http://assista.live:80/5528999773199/94596866/130633
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/45a3cdbc44d52dfbbbed6304985e153a.png",SYFY (H265)
-http://assista.live:80/5528999773199/94596866/130634
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/2a6c1b93bb0b8faab9e504fd245d1068.png",TBS (H265)
-http://assista.live:80/5528999773199/94596866/130635
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b7ac7dc3145b2be99f99cf133e57b8ab.png",Telecine Action (H265)
-http://assista.live:80/5528999773199/94596866/130636
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/00384b0952a3b02d833fa17b54fcc80c.png",Telecine Culto (H265)
-http://assista.live:80/5528999773199/94596866/130637
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/342a5938e1365029bd318632384ee7a6.png",Telecine Fun (H265)
-http://assista.live:80/5528999773199/94596866/130638
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/f18149a1b63fb8c77ad2cd356be11eb1.png",Telecine Pipoca (H265)http://assista.live:80/5528999773199/94596866/130639
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",Telecine Premium (H265)
-http://assista.live:80/5528999773199/94596866/130640
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/a35c66fcd18abd81bfd337fdf2819f64.png",Telecine Touch (H265)
-http://assista.live:80/5528999773199/94596866/130641
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png",TLC (H265)
-http://assista.live:80/5528999773199/94596866/130642
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/e52721f0b4560e0923057bc62e924009.png",TNT (H265)
-http://assista.live:80/5528999773199/94596866/130643
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/83325be20ecb33376512171493c0d255.png",Série TNT (H265)
-http://assista.live:80/5528999773199/94596866/130644
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/b3a2f01892369e5b23cf81026937c078.png",Warner (H265)
-http://assista.live:80/5528999773199/94596866/130646
-#EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/0d0add97097fbf7893087628353afb49.png",Uau (H265)
-http://assista.live:80/5528999773199/94596866/130647
-
-#EXTINF:-1 group-title="CANAIS | GLOBO",Globo TV VANGUARDA
-http://assista.live:80/5528999773199/94596866/263348
-
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/md/radio8756_1439401340.jpg",Rádio 96 Bauru São Paulo - 96 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108112
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://play-lh.googleusercontent.com/YKclPOUuve8nXbBKK4IFkcX-zql3d_kq9fWqGalPP5xrP2fo1oHDfydMNFTtxH4pqpg",Rádio Clube Pernambuco - 99,1 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108115
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/xl/radio13176_1628168105.png",Rádio Gaúcha Rio Grande do Sul | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108117
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://4.bp.blogspot.com/-j0LqutN_FA4/WhYIIfIWzlI/AAAAAAAAufw/95eZ3sjBdhgO5_M7QJ0ksbPCeLYCzivtQCLcBGAs/s1600/RADIO_HITS_FM_ RECIFE_PE.jpg",Hits de Rádio Recife Pernambuco - 103,1 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108119
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/md/radio80135_1538050223.png",Rádio Hits Rio de Janeiro - 99,7 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108120
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="http://021stream.xyz:80/images/be517e5be56c57480ec231557206eece.png",Rádio Quente São Paulo - 107 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108121
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/md/radio13654_1505738181.png",Rádio JB FM Rio de Janeiro - 99.9 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108122
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/md/radio13454_1543915123.jpg",Rádio Jovem Pan São Paulo - 89,5 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108123
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/lg/radio128049_1574880034.jpg",Rádio Mais Vida Muriaé Minas Gerais - 102.3 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108124
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/xl/radio13955_1532353280.png",Rádio Mix São Paulo - 106,3 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108126
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg",Super Rádio Tupi Rio de Janeiro - 96,5 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/108198
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94567_ll_h3_aa.png",SPORTV 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454231
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94567_ll_h3_aa.png",SPORTV 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454232
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94567_ll_h3_aa.png",SPORTV 1 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454233
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94568_ll_h3_aa.png",SPORTV 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454234
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94568_ll_h3_aa.png",SPORTV 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454235
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94568_ll_h3_aa.png",SPORTV 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454236
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94570_ll_h3_aa.png",SPORTV 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454237
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94570_ll_h3_aa.png",SPORTV 3 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454238
+#EXTINF:-1 group-title="Canais | SPORTV" tvg-logo="http://fanc.tmsimg.com/assets/s94570_ll_h3_aa.png",SPORTV 3 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454239
+#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="http://fanc.tmsimg.com/assets/s99021_ll_h3_aa.png",PREMIERE CLUBES | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454241
+#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="http://fanc.tmsimg.com/assets/s99021_ll_h3_aa.png",PREMIERE CLUBES | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454375
+#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="http://fanc.tmsimg.com/assets/s99021_ll_h3_aa.png",PREMIERE CLUBES | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454534
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s102412_ll_h3_aa.png",ESTREIA 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454642
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s102412_ll_h3_aa.png",ESTREIA 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454643
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s102412_ll_h3_aa.png",ESTREIA 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454644
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s102413_ll_h3_aa.png",ESTREIA 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454645
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s102413_ll_h3_aa.png",ESTREIA 3 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454647
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s56087_ll_h3_ab.png",ESTREIA 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454648
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s56087_ll_h3_ab.png",ESTREIA 4 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454649
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s56087_ll_h3_ab.png",ESTREIA 4 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454650
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s98136_ll_h3_aa.png",ESTREIA 5 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454651
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s98136_ll_h3_aa.png",ESTREIA 5 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454652
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s98136_ll_h3_aa.png",ESTREIA 5 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454653
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s103729_ll_h3_aa.png",ESTREIA 6 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454654
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s103729_ll_h3_aa.png",ESTREIA 6 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454655
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s103729_ll_h3_aa.png",ESTREIA 6 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454656
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s103733_ll_h3_aa.png",ESTREIA 7 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454657
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s103733_ll_h3_aa.png",ESTREIA 7 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454658
+#EXTINF:-1 group-title="Canais | ESTREIA" tvg-logo="http://fanc.tmsimg.com/assets/s103733_ll_h3_aa.png",ESTREIA 7 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454659
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s75838_ll_h3_aa.png",ESPN 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454660
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s75838_ll_h3_aa.png",ESPN 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454661
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s75838_ll_h3_aa.png",ESPN 1 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454662
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s75585_ll_h3_ab.png",ESPN 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454663
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s75585_ll_h3_ab.png",ESPN 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454664
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s75585_ll_h3_ab.png",ESPN 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454665
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png",ESPN 3 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454667
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png",ESPN 3 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454668
+#Extinf: -1 group-title = "canais | ESPN" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:and9gcsgve8rdudlputf7coirgzing2QCBEzJ2VM_7_BLKKSRDLUSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBOMBOMBOMBOMBOMBOLT9XSRJBSRJBSRJYBSRJBOMBLOMPLOMENTES2Q2VMENTE DE ", ESPN 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454669
+#Extinf: -1 group-title = "canais | ESPN" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:and9gcsgve8rdudlputf7coirgzing2QCBEzJ2VM_7_BLKKSRDLUSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBSRJYBOMBOMBOMBOMBOMBOLT9XSRJBSRJBSRJYBSRJBOMBLOMPLOMENTES2Q2VMENTE DE ", ESPN 4 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454671
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s99633_ll_h3_ac.png",ESPN EXTRA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454672
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://fanc.tmsimg.com/assets/s99633_ll_h3_ac.png",ESPN EXTRA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454673
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454701
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454702
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 1 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454703
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454704
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454705
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454707
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454710
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 4 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454711
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 5 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454713
+#EXTINF:-1 group-title="CANAIS | HBO MAX" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png",HBO MAX 6 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454716
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s90856_ll_h3_aa.png",FOX SPORTS 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454792
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s90856_ll_h3_aa.png",FOX SPORTS 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454793
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s90856_ll_h3_aa.png",FOX SPORTS 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454794
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s107459_ll_h3_aa.png",COMBATE | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454795
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s107459_ll_h3_aa.png",COMBATE | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454796
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s107459_ll_h3_aa.png",COMBATE | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454797
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s94563_ll_h3_ab.png",BAND SPORTS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454798
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s94563_ll_h3_ab.png",BAND SPORTS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454800
+#EXTINF:-1 group-title="CANAIS | NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/dToJFYJ.png",NOSSO FUTEBOL 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454801
+#EXTINF:-1 group-title="CANAIS | NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/dToJFYJ.png",NOSSO FUTEBOL 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454802
+#EXTINF:-1 group-title="CANAIS | NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/dToJFYJ.png",NOSSO FUTEBOL 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454804
+#EXTINF:-1 group-title="CANAIS | NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/dToJFYJ.png",NOSSO FUTEBOL 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454807
+#EXTINF:-1 group-title="CANAIS | NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/dToJFYJ.png",NOSSO FUTEBOL 3 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454808
+#EXTINF:-1 group-title="CANAIS | NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/dToJFYJ.png",NOSSO FUTEBOL 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454810
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s75600_ll_h3_ac.png",TELECINE AÇÃO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454851
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s75600_ll_h3_ac.png",TELECINE AÇÃO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454852
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s75600_ll_h3_ac.png",TELECINE AÇÃO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454853
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s84420_ll_h3_ac.png",TELECINE CULT | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454854
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s84420_ll_h3_ac.png",TELECINE CULT | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454856
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s78314_ll_h3_ac.png",TELECINE FUN | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454857
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s78314_ll_h3_ac.png",TELECINE FUN | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454859
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s75603_ll_h3_ac.png",TELECINE PIPOCA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454860
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s75603_ll_h3_ac.png",TELECINE PIPOCA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454861
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s75603_ll_h3_ac.png",TELECINE PIPOCA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454862
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s78306_ll_h3_ac.png",TELECINE PREMIUM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454863
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s78306_ll_h3_ac.png",TELECINE PREMIUM | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454865
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s78304_ll_h3_ac.png",TELECINE TOUCH | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454866
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://fanc.tmsimg.com/assets/s78304_ll_h3_ac.png",TELECINE TOUCH | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454868
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454869
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454870
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454871
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s56092_ll_h3_aa.png",HBO FAMILY | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454872
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s76101_ll_h3_aa.png",HBO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454875
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s76101_ll_h3_aa.png",HBO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454877
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s69097_ll_h3_ac.png",HBO MUNDI | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454878
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s69097_ll_h3_ac.png",HBO MUNDI | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454880
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s98076_ll_h3_ba.png",HBO PLUS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454881
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s98076_ll_h3_ba.png",HBO PLUS | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454882
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s98076_ll_h3_ba.png",HBO PLUS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454883
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s75590_ll_h3_ad.png",HBO POP | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454884
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s75590_ll_h3_ad.png",HBO POP | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454886
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s74530_ll_h3_aa.png",HBO SIGNATURE | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454887
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s74530_ll_h3_aa.png",HBO SIGNATURE | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454889
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s54590_ll_h3_ac.png",HBO XTREME | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454890
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://fanc.tmsimg.com/assets/s54590_ll_h3_ac.png",HBO XTREME | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454892
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png",DISCOVERY ANIMAL PLANET | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454897
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png",DISCOVERY ANIMAL PLANET | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454898
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png",DISCOVERY ANIMAL PLANET | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454899
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s79018_ll_h3_ac.png",DISCOVERY CHANNEL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454900
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s79018_ll_h3_ac.png",DISCOVERY CHANNEL | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454901
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s79018_ll_h3_ac.png",DISCOVERY CHANNEL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454902
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s55913_ll_h3_ab.png",DISCOVERY H&H | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454903
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s55913_ll_h3_ab.png",DISCOVERY H&H | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454905
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png",DISCOVERY KIDS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454906
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png",DISCOVERY KIDS | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454907
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png",DISCOVERY KIDS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454908
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s105951_ll_h3_aa.png",CIÊNCIA DA DESCOBERTA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454909
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s105951_ll_h3_aa.png",CIÊNCIA DA DESCOBERTA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454910
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s105951_ll_h3_aa.png",CIÊNCIA DA DESCOBERTA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454911
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s75835_ll_h3_ab.png",DISCOVERY THEATRE | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454912
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s75835_ll_h3_ab.png",DISCOVERY THEATRE | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454914
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s90874_ll_h3_ab.png",DISCOVERY TURBO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454915
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s90874_ll_h3_ab.png",DISCOVERY TURBO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454917
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s75605_ll_h3_aa.png",DISCOVERY WORLD | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454918
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s75605_ll_h3_aa.png",DISCOVERY WORLD | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454920
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s111477_ll_h3_aa.png",DISCOVERY HGTV | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454921
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s111477_ll_h3_aa.png",DISCOVERY HGTV | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454923
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s16269_ll_h3_ac.png",ID DISCOVERY | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454924
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s16269_ll_h3_ac.png",ID DISCOVERY | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454926
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s98582_ll_h3_aa.png",DISCOVERY TLC | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454927
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s98582_ll_h3_aa.png",DISCOVERY TLC | FONTE 2
+http://tv.com.vc:80/paulinho/123456/454928
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s98582_ll_h3_aa.png",DISCOVERY TLC | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454929
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s110390_ll_h3_ad.png",FISH TV | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454940
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s110390_ll_h3_ad.png",FISH TV | FONTE 3
+http://tv.com.vc:80/paulinho/123456/454942
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg",YOUTUBE 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454974
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg",YOUTUBE 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454975
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg",YOUTUBE 5 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454976
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png",ELEVEN SPORTS 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454977
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png",ELEVEN SPORTS 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454983
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png",ELEVEN SPORTS 6 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454992
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png",ELEVEN SPORTS 7 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/454995
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png",ELEVEN SPORTS 9 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455001
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ",ESTADIO TNT SPORTS 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455006
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ",ESTADIO TNT SPORTS 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455021
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ",ESTADIO TNT SPORTS 5 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455027
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ",ESTADIO TNT SPORTS 5 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455029
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" ,NSPORTES 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455045
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s94119_ll_h3_aa.png",OFF | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455068
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s94119_ll_h3_aa.png",OFF | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455070
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://1.bp.blogspot.com/-91iMfxbKqcA/WG_lBAlBCTI/AAAAAAAAMaA/xfEObKNASvELfO_UyIeXU2H_Chb2jHwxgCLcB/s1600/123.jpg",CULTURA PARÁ 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455072
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png",GLOBOPLAY+ 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455074
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2022/11/copa_caze_tv.jpg",CAZÉ TV | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455078
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png",JOVEM PAN NEWS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455085
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png",JOVEM PAN NEWS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455087
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s114159_ll_h3_ac.png",CNN BRASIL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455088
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s114159_ll_h3_ac.png",CNN BRASIL | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455089
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s114159_ll_h3_ac.png",CNN BRASIL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455090
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s95744_ll_h3_aa.png",GLOBO NOTÍCIAS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455091
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s95744_ll_h3_aa.png",GLOBO NOTÍCIAS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455093
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s106678_ll_h3_aa.png",WOOHOO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455115
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s106678_ll_h3_aa.png",WOOHOO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455117
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="http://fanc.tmsimg.com/assets/s76753_ll_h3_aa.png",TVE BAHIA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455136
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s16268_ll_h3_aa.png",A&E | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455213
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s16268_ll_h3_aa.png",A&E | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455214
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s16268_ll_h3_aa.png",A&E | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455215
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s92009_ll_h3_aa.png",AMC | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455216
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s92009_ll_h3_aa.png",AMC | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455217
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75580_ll_h3_ab.png",AXN | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455219
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png",AXN | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455220
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75580_ll_h3_ab.png",AXN | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455221
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75596_ll_h3_ab.png",SONY CHANNEL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455222
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75596_ll_h3_ab.png",SONY CHANNEL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455224
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75583_ll_h3_ab.png",CINEMAX | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455225
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75583_ll_h3_ab.png",CINEMAX | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455227
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75584_ll_h3_aa.png",DISNEY CHANNEL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455228
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75584_ll_h3_aa.png",DISNEY CHANNEL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455230
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s110389_ll_h3_aa.png",FILME & ARTE | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455231
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s110389_ll_h3_aa.png",FILME & ARTE | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455233
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s54591_ll_h3_aa.png",FX | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455234
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s54591_ll_h3_aa.png",FX | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455236
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s89295_ll_h3_ab.png",LIFETIME | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455237
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s89295_ll_h3_ab.png",LIFETIME | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455238
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s89295_ll_h3_ab.png",LIFETIME | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455239
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s78130_ll_h3_aa.png",MEGAPIX | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455240
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s78130_ll_h3_aa.png",MEGAPIX | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455242
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s90944_ll_h3_ac.png",REDE PARAMONT | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455244
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s90944_ll_h3_ac.png",REDE PARAMONT | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455245
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s90944_ll_h3_ac.png",REDE PARAMONT | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455246
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png",ESPAÇO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455247
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png",ESPAÇO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455248
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png",ESPAÇO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455249
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75423_h3_aa.png",CANAL ESTRELA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455250
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75423_h3_aa.png",CANAL ESTRELA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455251
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s75423_h3_aa.png",CANAL ESTRELA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455252
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png",CINECANAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455253
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png",CINECANAL | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455254
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png",CINECANAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455255
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s104740_ll_h3_aa.png",STUDIO UNIVERSAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455256
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s104740_ll_h3_aa.png",STUDIO UNIVERSAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455258
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s104739_ll_h3_aa.png",SYFY | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455259
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s104739_ll_h3_aa.png",SYFY | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455260
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s104739_ll_h3_aa.png",SYFY | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455261
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://alemdatela.com/wp-content/uploads/2023/05/tnt-novelas-logo-Large-696x392.jpeg ",TNT NOVELAS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455262
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://alemdatela.com/wp-content/uploads/2023/05/tnt-novelas-logo-Large-696x392.jpeg ",TNT NOVELAS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455264
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s111158_ll_h3_aa.png",TNT | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455265
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s111158_ll_h3_aa.png",TNT | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455266
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s111158_ll_h3_aa.png",TNT | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455267
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s101728_ll_h3_aa.png",SÉRIE TNT | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455268
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s101728_ll_h3_aa.png",SÉRIE TNT | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455270
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s94571_ll_h3_ab.png",TV UNIVERSAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455271
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s94571_ll_h3_ab.png",TV UNIVERSAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455273
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s16214_ll_h3_aa.png",WARNER CHANNEL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455274
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s16214_ll_h3_aa.png",WARNER CHANNEL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455276
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455277
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 1 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455279
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455280
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455282
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455283
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 3 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455285
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455286
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 4 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455288
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 5 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455289
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 5 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455291
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 6 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455292
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 6 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455294
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 7 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455295
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 7 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455297
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 8 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455298
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 9 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455301
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 10 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455305
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 11 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455308
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 12 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455309
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 13 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455311
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 14 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455313
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://i.imgur.com/N0YfGEs.png",CINE SKY 15 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455315
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s56102_ll_h3_aa.png",TCM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455322
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s56102_ll_h3_aa.png",TCM | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455323
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s56102_ll_h3_aa.png",TCM | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455324
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://1.bp.blogspot.com/-qGWPiv7dq64/XysP021rVzI/AAAAAAABu1s/TNgOjYFe1oMCPCDX5DnstIFi2-j9K3IaQCLcBGAsYHQ/s1600/SKY%2B Play_OUNIVERSODATV2.png ",CÉU JOGO 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455337
+#EXTINF:-1 group-title="CANAIS | FILMES ESPECIAIS" tvg-logo="https://1.bp.blogspot.com/-qGWPiv7dq64/XysP021rVzI/AAAAAAABu1s/TNgOjYFe1oMCPCDX5DnstIFi2-j9K3IaQCLcBGAsYHQ/s1600/SKY%2B Play_OUNIVERSODATV2.png ",CÉU JOGO 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455338
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s83200_ll_h3_ab.png",COMEDY CENTRAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455339
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://fanc.tmsimg.com/assets/s83200_ll_h3_ab.png",COMEDY CENTRAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455341
+#EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="https://i.imgur.com/qqhdkym.png",FILMES GOSPEL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455343
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s104200_ll_h3_aa.png",SBT PERNAMBUCO TV JORNAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455344
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s104200_ll_h3_aa.png",SBT PERNAMBUCO TV JORNAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455346
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455613
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455616
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455617
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455619
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 3 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455620
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/455622
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 4 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/455623
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 4 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455624
+#EXTINF:-1 group-title="CANAIS | PARAMOUNT +" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png",PARAMOUNT + 5 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/455626
+#EXTINF:-1 group-title="CANAIS | PRIME VÍDEO" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png",PRIME VIDEO 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/457541
+#EXTINF:-1 group-title="CANAIS | PRIME VÍDEO" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png",PRIME VIDEO 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/457542
+#EXTINF:-1 group-title="CANAIS | PRIME VÍDEO" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png",PRIME VIDEO 2 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/457544
+#EXTINF:-1 group-title="CANAIS | PRIME VÍDEO" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png",PRIME VIDEO 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/457545
+#EXTINF:-1 group-title="CANAIS | PRIME VÍDEO" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png",PRIME VIDEO 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/457547
+#EXTINF:-1 group-title="CANAIS | PRIME VÍDEO" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png",PRIME VIDEO 4 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/457550
+#EXTINF:-1 group-title="CANAIS | F. SPORT TV" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png",F . ESPORTES TV 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/458001
+#EXTINF:-1 group-title="CANAIS | F. SPORT TV" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png",F . ESPORTES TV 1 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/458002
+#EXTINF:-1 group-title="CANAIS | F. SPORT TV" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png",F . ESPORTES TV 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/458004
+#EXTINF:-1 group-title="CANAIS | F. SPORT TV" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png",F . ESPORTES TV 3 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/458005
+#EXTINF:-1 group-title="CANAIS | F. SPORT TV" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png",F . ESPORTES TV 3 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/458006
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png",RECORDTV SÃO PAULO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615019
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png",RECORDTV SÃO PAULO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615021
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s104206_ll_h3_aa.png",RECORDTV RIO DE JANEIRO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615047
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s104206_ll_h3_aa.png",RECORDTV RIO DE JANEIRO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/615048
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s104206_ll_h3_aa.png",RECORDTV RIO DE JANEIRO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615049
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s103743_ll_h3_aa.png",RECORDTV NEWS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615050
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s103743_ll_h3_aa.png",RECORDTV NEWS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615052
+#EXTINF:-1 group-title="CANAIS | RECORDTV" tvg-logo="http://fanc.tmsimg.com/assets/s76633_ll_h3_ab.png",RECORDTV TV Thathi CAMPINAS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615639
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103779_ll_h3_aa.png",TV APARECIDA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615648
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103779_ll_h3_aa.png",TV APARECIDA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/615649
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s94120_ll_h3_aa.png",VIVA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615651
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s94120_ll_h3_aa.png",VIVA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/615664
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s94120_ll_h3_aa.png",VIVA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615729
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s115356_ll_h3_ab.png",AGROMAIS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615730
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s115356_ll_h3_ab.png",AGROMAIS | FONTE 2
+http://tv.com.vc:80/paulinho/123456/615731
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s115356_ll_h3_ab.png",AGROMAIS | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615732
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s77874_ll_h3_aa.png",CANAL DO BOI | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615735
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s77874_ll_h3_aa.png",CANAL DO BOI | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615752
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s38704_ll_h3_aa.png",CANAL RURAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615753
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s38704_ll_h3_aa.png",CANAL RURAL | FONTE 2
+http://tv.com.vc:80/paulinho/123456/615754
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s38704_ll_h3_aa.png",CANAL RURAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615755
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103713_ll_h3_aa.png",CANÇÃO NOVA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615756
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103713_ll_h3_aa.png",CANÇÃO NOVA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/615757
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103713_ll_h3_aa.png",CANÇÃO NOVA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615758
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s77910_ll_h3_aa.png",CHEF TV | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615759
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s105950_ll_h3_ab.png",CURTA! | FONTE 1
+http://tv.com.vc:80/paulinho/123456/615783
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s105950_ll_h3_ab.png",CURTA! | FONTE 3
+http://tv.com.vc:80/paulinho/123456/615793
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s82446_ll_h3_aa.png",DOG TV | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621552
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s82446_ll_h3_aa.png",DOG TV | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621553
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s90905_ll_h3_aa.png",REDE ALIMENTAR | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621554
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s90905_ll_h3_aa.png",REDE ALIMENTAR | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621556
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s103720_ll_h3_aa.png",FUTURA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621557
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s103744_ll_h3_aa.png",REDE 21 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621561
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s103807_ll_h3_aa.png",REDE BRASIL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621562
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s104807_ll_h3_aa.png",REDE GOSPEL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621564
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s104807_ll_h3_aa.png",REDE GOSPEL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621567
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s78480_ll_h3_aa.png",REDE VIDA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621568
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s78480_ll_h3_aa.png",REDE VIDA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621570
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://4.bp.blogspot.com/-FpqJa2VVlTQ/UqN53jIDp4I/AAAAAAAAfzY/oAWCs9FQxDU/s1600/shoptime.png",SHOPTIME | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621571
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s75608_ll_h3_aa.png",TRUTV | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621574
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s75608_ll_h3_aa.png",TRUTV | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621575
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s75608_ll_h3_aa.png",TRUTV | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621576
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s20750_ll_h3_am.png",TV BRASIL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621577
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s20750_ll_h3_am.png",TV BRASIL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621579
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s76216_ll_h3_aa.png",TV CULTURA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621582
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s76216_ll_h3_aa.png",TV CULTURA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621584
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s56337_ll_h3_aa.png",TV ESCOLA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621585
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s95158_ll_h3_aa.png",TV EVANGELIZAR | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621587
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s95158_ll_h3_aa.png",TV EVANGELIZAR | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621589
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s104470_ll_h3_aa.png",TV GAZETA SÃO PAULO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621590
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s104470_ll_h3_aa.png",TV GAZETA SÃO PAULO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621592
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103762_ll_h3_aa.png",TV NOVO TEMPO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621596
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103762_ll_h3_aa.png",TV NOVO TEMPO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621598
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png",TV PAI ETERNO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621599
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s104738_h3_aa.png",TV RÁ TIM BUM! | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621603
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s105047_ll_h3_aa.png",TV SENADO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621605
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://fanc.tmsimg.com/assets/s103757_ll_h3_aa.png",TERRAVIVA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621607
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://fanc.tmsimg.com/assets/s103745_ll_h3_aa.png",REDE SUPER | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621612
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png",TV UNIVERSAL | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621619
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png",TV UNIVERSAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621620
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://scontent.frec33-1.fna.fbcdn.net/v/t39.30808-6/326760468_3571421876520180_4751041219423691343_n.jpg?_nc_cat=10 4&ccb =1-7&_nc_sid=09cbfe&_nc_ohc=m3HcEVqrFIcAX_el_bj&_nc_oc=AQnO0SU1agY8EJcunUfAXXKTDjm4wpNtl2hsAOGvFcf1NSKmp_FaznGmP1QaDpNP79g&_nc_ht=scontent.frec33-1.f na&oh=00_AfA4JTH7FWotvUrtpGJkAMPsOln-vvKruhtUtSjUE8hNKA&oe=64B1C617",REDE BRASIL - IEADPE REDE ESTAÇÃO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621622
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s75797_ll_h3_ab.png",BBC WORLD NEWS | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621638
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s64364_ll_h3_aa.png",CNN INTERNACIONAL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621642
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://fanc.tmsimg.com/assets/s64364_ll_h3_aa.png",CNN INTERNACIONAL | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621644
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s103707_ll_h3_aa.png",ARTE 1 | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621645
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s103707_ll_h3_aa.png",ARTE 1 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621938
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s103707_ll_h3_aa.png",ARTE 1 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621939
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s16238_ll_h3_aa.png",E! | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621940
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s16238_ll_h3_aa.png",E! | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621942
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s79019_ll_h3_ab.png",GNT | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621943
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s79019_ll_h3_ab.png",GNT | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621945
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s98187_ll_h3_ab.png",HISTÓRICO 2 | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621947
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s98187_ll_h3_ab.png",HISTÓRICO 2 | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621948
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s54634_ll_h3_aa.png",HISTÓRIA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621949
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s54634_ll_h3_aa.png",HISTÓRIA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621950
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s54634_ll_h3_aa.png",HISTÓRIA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621951
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png",AMO A NATUREZA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621952
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png",AMO A NATUREZA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621953
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png",AMO A NATUREZA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621954
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s54593_ll_h3_aa.png",GEOGRÁFICO NACIONAL (NATGEO) | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621955
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://fanc.tmsimg.com/assets/s98059_ll_h3_aa.png",TRAVEL BOX BRASIL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621957
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s98757_ll_h3_aa.png",SBT RIO DE JANEIRO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621993
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s98757_ll_h3_aa.png",SBT RIO DE JANEIRO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/621994
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s98757_ll_h3_aa.png",SBT RIO DE JANEIRO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/621995
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s103756_ll_h3_aa.png",SBT RIO GRANDE DO SUL | FONTE 1
+http://tv.com.vc:80/paulinho/123456/621996
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s104214_ll_h3_aa.png",SBT SÃO PAULO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/622002
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s104214_ll_h3_aa.png",SBT SÃO PAULO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/622003
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://fanc.tmsimg.com/assets/s104214_ll_h3_aa.png",SBT SÃO PAULO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/622004
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://fanc.tmsimg.com/assets/s76137_ll_h3_aa.png",BAND CAMPINAS SÃO PAULO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/622013
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://fanc.tmsimg.com/assets/s76137_ll_h3_aa.png",BAND CAMPINAS SÃO PAULO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/622014
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://fanc.tmsimg.com/assets/s76137_ll_h3_aa.png",BAND CAMPINAS SÃO PAULO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/622015
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://fanc.tmsimg.com/assets/s104199_ll_h3_aa.png",BAND RIO DE JANEIRO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/622052
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://fanc.tmsimg.com/assets/s76137_ll_h3_aa.png",BAND SÃO PAULO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/622057
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://fanc.tmsimg.com/assets/s76137_ll_h3_aa.png",BAND SÃO PAULO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/622058
+#EXTINF:-1 group-title="CANAIS | REDETV!" tvg-logo="http://fanc.tmsimg.com/assets/s78381_ll_h3_ab.png",REDETV! | FONTE 1
+http://tv.com.vc:80/paulinho/123456/622060
+#EXTINF:-1 group-title="CANAIS | REDETV!" tvg-logo="http://fanc.tmsimg.com/assets/s78381_ll_h3_ab.png",REDETV! | FONTE 2
+http://tv.com.vc:80/paulinho/123456/622061
+#EXTINF:-1 group-title="CANAIS | REDETV!" tvg-logo="http://fanc.tmsimg.com/assets/s78381_ll_h3_ab.png",REDETV! | FONTE 3
+http://tv.com.vc:80/paulinho/123456/622062
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s97985_ll_h3_ab.png",BABY TV | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623499
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s97985_ll_h3_ab.png",BABY TV | FONTE 2
+http://tv.com.vc:80/paulinho/123456/623500
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s97985_ll_h3_ab.png",BABY TV | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623511
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s16142_ll_h3_aa.png",CARTOON NETWORK | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623512
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s16142_ll_h3_aa.png",CARTOON NETWORK | FONTE 2
+http://tv.com.vc:80/paulinho/123456/623513
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s31760_ll_h3_aa.png",CARTOONITO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623514
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s31760_ll_h3_aa.png",CARTOONITO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623516
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s78083_ll_h3_ab.png",GLOOB | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623562
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s78083_ll_h3_ab.png",GLOOB | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623619
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s107894_ll_h3_aa.png",GLOOBINHO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623620
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s107894_ll_h3_aa.png",GLOOBINHO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/623621
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s107894_ll_h3_aa.png",GLOOBINHO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623622
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s104754_ll_h3_aa.png",NICK JR | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623627
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s104754_ll_h3_aa.png",NICK JR | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623629
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s16708_ll_h3_aa.png",NICKELODEON | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623630
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s16708_ll_h3_aa.png",NICKELODEON | FONTE 2
+http://tv.com.vc:80/paulinho/123456/623631
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s16708_ll_h3_aa.png",NICKELODEON | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623632
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s83240_ll_h3_aa.png",TOONCAST | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623633
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s83240_ll_h3_aa.png",TOONCAST | FONTE 2
+http://tv.com.vc:80/paulinho/123456/623634
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s83240_ll_h3_aa.png",TOONCAST | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623635
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s109813_ll_h3_aa.png",ZOOMO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/623636
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://fanc.tmsimg.com/assets/s109813_ll_h3_aa.png",ZOOMO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/623640
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/deus-e-amor-logo-5.png" ,Rádio - Igreja Pentecostal Deus é Amor | FONTE 1
+http://tv.com.vc:80/paulinho/123456/740834
+#EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/12/9f/17871/c300.png",Rádio Melodia Rio de Janeiro - 97,5 FM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/740837
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio38674_1519726473.PNG",Rádio Melodia Sertaneja Itapetininga / SP - Brasil
+http://tv.com.vc:80/paulinho/123456/963049
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio37105_1465207548.png",Heavy Metal Ears Rádio São Paulo/SP - Brasil
+http://tv.com.vc:80/paulinho/123456/963052
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio80400_1564486487.jpg",Nova Rádio Cidade 105.9 FM Itapetininga/SP - Brasil
+http://tv.com.vc:80/paulinho/123456/963053
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio8841_1449137800.jpg",RadioSky Passo Fundo / RS - Brasil
+http://tv.com.vc:80/paulinho/123456/963055
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio31864_1646332296.jpg",Rádio Cidade 98.3 FM Cruz Alta/RS - Brasil
+http://tv.com.vc:80/paulinho/123456/963056
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://seeklogo.com/images/F/Fm_O_Dia-logo-F0CD3E93CF-seeklogo.com.png",RÁDIO FM O DIA 100.5 (RJ)
+http://tv.com.vc:80/paulinho/123456/963057
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio14075_1506599378.png",Rádio Grenal 95.9 FM Porto Alegre/RS - Brasil
+http://tv.com.vc:80/paulinho/123456/963058
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://uploaddeimagens.com.br/images/004/625/290/full/logo.png",RÁDIO MANIA FM (RJ )
+http://tv.com.vc:80/paulinho/123456/963062
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio152673_1651685385.jpeg",Rádio Mix Digital Lucas do Rio Verde/MT -Brasil
+http://tv.com.vc:80/paulinho/123456/963063
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio44815_1688403833.jpg",Rádio Pop FM 107.7 Itapetininga / SP - Brasil
+http://tv.com.vc:80/paulinho/123456/963064
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio148438_1591891923.jpeg",Rádio Rasga Baleia Eusébio / CE - Brasil
+http://tv.com.vc:80/paulinho/123456/963066
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio9772_1581011639.jpg",Rádio Regional 103.5 FM Lucas do Rio Verde / MT-Brasil
+http://tv.com.vc:80/paulinho/123456/963067
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio32300_1562333209.jpg",Rádio Super Difusora 94,5 FM Itapetininga/SP - Brasil
+http://tv.com.vc:80/paulinho/123456/963069
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio37619_1675086329.png",Rádio Terra 96.5 FM Campinas / SP - Brasil
+http://tv.com.vc:80/paulinho/123456/963070
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio34743_1646666998.jpg",Rádio Terra 98.5 FM Campestre / MG - Brasil
+http://tv.com.vc:80/paulinho/123456/963071
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio14331_1634155554.jpg",Rádio Torres 101.1 FM Torres / RS - Brasil
+http://tv.com.vc:80/paulinho/123456/963072
+#EXTINF:-1 group-title="CANAIS | FONTE 2" tvg-logo="https://img.radios.com.br/radio/lg/radio26061_1439401629.jpg",Rádio Torres Torres / RS - Brasil
+http://tv.com.vc:80/paulinho/123456/963073
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://w7.pngwing.com/pngs/580/696/png-transparent-effects-music-effect-color-music. png",24H - CLIPES ELETRÔNICAS
+http://tv.com.vc:80/paulinho/123456/961428
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/w1200-h630 -pk-no-nu/Screenshot_2019-07-03-13-02-38.png",24H - KRONE HIT
+http://tv.com.vc:80/paulinho/123456/961430
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/w1200-h630-pk-no -nu/Captura de tela_2019-06-24-13-39-35.png",24H - TOPO DE MÚSICA
+http://tv.com.vc:80/paulinho/123456/961431
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://i.ytimg.com/vi/MUGA9J92vLw/maxresdefault.jpg",90
+http://tv.com.vc:80/paulinho/123456/961432
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://www.vagalume.com.br/1487701935336993/default",24H - MÚSICAS CALMARIA
+http://tv.com.vc:80/paulinho/123456/961433
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://3.bp.blogspot.com/_qIp-3DWinPY/TSOO8NJ0Q1I/AAAAAAAAAQA/-2ICwKqMFc0/s640/C%25C3%25B3pia +de+Bailantanosulvol3-capa+front+mp3do+sul.png",24H - MUSICAS GAUCHESCAS
+http://tv.com.vc:80/paulinho/123456/961434
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",24H - ROCK TV
+http://tv.com.vc:80/paulinho/123456/961438
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://s2.glbimg.com/2DxS93KjqVnLXQC5IOcZLNOnAxg=/0x0:1600x1132/984x0/smart/filters:strip_icc()/i.s3 .glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2018/U/a/2DuSA1ToK20NC6Vvn9DA/logo-modao-digital.png",24H - SERTANEJO MODAO
+http://tv.com.vc:80/paulinho/123456/961439
+#EXTINF:-1 group-title="CANAIS | FONTE 3" tvg-logo="https://assets.papelpop.com/wp-content/uploads/2018/12/melhores-clipes-2018.jpg",24H - OS 100 MELHORES
+http://tv.com.vc:80/paulinho/123456/961441
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://teletime.com.br/wp-content/uploads/2019/11/globo-jornalismo-e1573271440167.jpg",GLOBO SÃO PAULO | FONTE 1
+http://tv.com.vc:80/paulinho/123456/752911
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://teletime.com.br/wp-content/uploads/2019/11/globo-jornalismo-e1573271440167.jpg",GLOBO SÃO PAULO | FONTE 2
+http://tv.com.vc:80/paulinho/123456/752912
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://teletime.com.br/wp-content/uploads/2019/11/globo-jornalismo-e1573271440167.jpg",GLOBO SÃO PAULO | FONTE 3
+http://tv.com.vc:80/paulinho/123456/752913
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s75867_ll_h3_aa.png",GLOBO TV TEM BAURU | FONTE 1
+http://tv.com.vc:80/paulinho/123456/753104
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s75867_ll_h3_aa.png",GLOBO TV TEM BAURU | FONTE 2
+http://tv.com.vc:80/paulinho/123456/753105
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s94889_ll_h3_aa.png",GLOBO TV TEM ITAPETININGA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/753107
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s105317_ll_h3_aa.png",GLOBO TV TEM SOROCABA | FONTE 1
+http://tv.com.vc:80/paulinho/123456/753110
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s105317_ll_h3_aa.png",GLOBO TV TEM SOROCABA | FONTE 2
+http://tv.com.vc:80/paulinho/123456/753111
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s105317_ll_h3_aa.png",GLOBO TV TEM SOROCABA | FONTE 3
+http://tv.com.vc:80/paulinho/123456/753112
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://fanc.tmsimg.com/assets/s75870_ll_h3_aa.png",GLOBO TV TRIBUNA (SANTOS) | FONTE 2
+http://tv.com.vc:80/paulinho/123456/753114
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png ",GLOBO MODO VIAGEM | FONTE 1
+http://tv.com.vc:80/paulinho/123456/754030
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/oJzfwld.png",Animal Planet 4K
+http://tv.com.vc:80/paulinho/123456/959836
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/8PQkuVt.png",Banda 4K
+http://tv.com.vc:80/paulinho/123456/959844
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/yHFW3vY.png",Cartoon Network 4K
+http://tv.com.vc:80/paulinho/123456/959856
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/iBtthK7.png",Combate 4K
+http://tv.com.vc:80/paulinho/123456/959879
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/tQW7jYa.png",Discovery Channel 4K
+http://tv.com.vc:80/paulinho/123456/959891
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="http://021stream.xyz:80/images/ba50ed0b3cfb56e5989cd66ef67748db.png",ESPN 4 4K
+http://tv.com.vc:80/paulinho/123456/959908
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="http://021stream.xyz:80/images/ba50ed0b3cfb56e5989cd66ef67748db.png",ESPN 4K
+http://tv.com.vc:80/paulinho/123456/959910
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/0xfNF6m.png",FOX SPORTS 2 4K
+http://tv.com.vc:80/paulinho/123456/959917
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/zjqddfl.png",Globo 4K
+http://tv.com.vc:80/paulinho/123456/959923
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/MSbGlF3.png",HBO 4K
+http://tv.com.vc:80/paulinho/123456/959961
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/tZQou9l.png",HBO XTREME 4K
+http://tv.com.vc:80/paulinho/123456/959969
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/a1T8A7Y.png",Megapix 4K
+http://tv.com.vc:80/paulinho/123456/959983
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/TmJwUyT.png",Multishow 4K
+http://tv.com.vc:80/paulinho/123456/959993
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/ajTduA7.png",NATGEO 4K
+http://tv.com.vc:80/paulinho/123456/959995
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/MSeODpX.png",REDETV 4K
+http://tv.com.vc:80/paulinho/123456/960015
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/fAIRogr.png",SBT 4K
+http://tv.com.vc:80/paulinho/123456/960016
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/jrLtYGg.png",Espaço 4K
+http://tv.com.vc:80/paulinho/123456/960020
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/PuiKfMf.png",SporTV 4K
+http://tv.com.vc:80/paulinho/123456/960027
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/Djn232m.png",STAR CHANNEL 4K
+http://tv.com.vc:80/paulinho/123456/960029
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/Y9bDX2R.png",TELECINE PIPOCA 4K
+http://tv.com.vc:80/paulinho/123456/960055
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/11uUTvW.png",Telecine Premium 4K
+http://tv.com.vc:80/paulinho/123456/960057
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="https://imgur.com/Hahaouj.png",TNT 4K
+http://tv.com.vc:80/paulinho/123456/960061
+#EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="http://021stream.xyz:80/images/5dc4e34305549df382f5a995f0cec20a.png",Série TNT 4K
+http://tv.com.vc:80/paulinho/123456/960066
