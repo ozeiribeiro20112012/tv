@@ -1,3 +1,599 @@
+
+
+#EXTM3U
+
+#EXTINF:-1,Globo
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1,SBT
+https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+#EXTINF:-1,Band
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+#EXTINF:-1,Canção Nova
+http://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,CNT
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+
+#EXTINF:-1,IdealTV
+https://tvcanais.xyz/idealtv/index.fmp4.m3u8
+
+#EXTINF:-1,RBI TV
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkgxyCIubfDvvohJuOiqlYD_D_LQXcypKQA&usqp=CAU" group-title=,Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1,Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
+
+#EXTINF:-1,Rede brasil
+https://tvcanais.xyz/rede_bra/index.fmp4.m3u8
+
+#EXTINF:-1,Record
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14566
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIGwrlOs4NsZzBAAEXxTs7RcQ-A25PDASeA&usqp=CAU" group-title=,Rede TV
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
+
+#EXTINF:-1,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1p0r8AqYLphOE_TBHYfyRUBw-gKCRm11Czw&usqp=CAU" group-title=,TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1,Futura
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14560
+
+#EXTINF:-1,RIT
+https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+
+#EXTINF:-1,TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1,TV cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1,Cartoonito
+http://splaytv.club:80/amanda/amanda@personal/126104
+
+#EXTINF:-1,CartoonNetwork
+http://splaytv.club:80/amanda/amanda@personal/83192
+
+#EXTINF:-1,Discovery kids
+http://splaytv.club:80/amanda/amanda@personal/126106
+
+#EXTINF:-1,Discovery channel
+http://splaytv.club:80/amanda/amanda@personal/83196
+
+#EXTINF:-1,Disney 
+http://splaytv.club:80/amanda/amanda@personal/83204
+
+#EXTINF:-1,Gloob
+http://splaytv.club:80/amanda/amanda@personal/126109
+
+#EXTINF:-1,Gloobinho
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1VYFlmc-wZ68v1_wyFnu-ZQ4xZRIVpkUpZeOlm3ygA&s" group-title=,BABY SHARK TV
+https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://splaytv.club:80/amanda/amanda@personal/126112
+
+#EXTINF:-1,NickJr
+http://splaytv.club:80/amanda/amanda@personal/126113
+
+#EXTINF:-1,Tooncast
+http://splaytv.club:80/amanda/amanda@personal/149345
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3unXeDiM7Q3MmJRsGb76JDxYjlSg9GI1AI7P8P1cpEVlvLTR-2aCteSWNhUY6EwOi8g&usqp=CAU" group-title=,,Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynEbU96h918pi-0sT16UNoY8nYEccMVeqAA&usqp=CAU" group-title=,,ZooMoo Kids
+https://tvcanais.xyz/zoomoo_kids/index.fmp4.m3u8
+
+#EXTINF:-1,Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://splaytv.club:80/amanda/amanda@personal/83368
+
+#EXTINF:-1,Arte 1
+http://splaytv.club:80/amanda/amanda@personal/164576
+
+#EXTINF:-1,Discovery Channel
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1,ID
+http://splaytv.club:80/amanda/amanda@personal/83355
+
+#EXTINF:-1,Discovery Channel
+http://splaytv.club:80/amanda/amanda@personal/83340
+
+#EXTINF:-1,Discovery Turbo
+http://splaytv.club:80/amanda/amanda@personal/83343
+
+#EXTINF:-1,Discovery Science
+https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
+
+#EXTINF:-1,Discovery Science
+http://splaytv.club:80/amanda/amanda@personal/83379
+
+#EXTINF:-1,H2
+http://splaytv.club:80/amanda/amanda@personal/83394
+
+#EXTINF:-1,History
+http://splaytv.club:80/amanda/amanda@personal/83393
+
+#EXTINF:-1,NatGeo
+http://splaytv.club:80/amanda/amanda@personal/147615
+
+#EXTINF:-1,Discovery Home & Health
+http://splaytv.club:80/amanda/amanda@personal/83341
+
+#EXTINF:-1,Discovery Theater
+http://splaytv.club:80/amanda/amanda@personal/83342
+
+#EXTINF:-1,Discovery World 
+http://assista.live:80/5528999773199/94596866/130583
+
+#EXTINF:-1,cine skay
+https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
+
+#EXTINF:-1,CINE COMÉDIA
+https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
+
+#EXTINF:-1,FICCAO CIENTIFICA
+https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
+
+#EXTINF:-1,AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1,AMC
+http://splaytv.club:80/amanda/amanda@personal/83336
+
+#EXTINF:-1,AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1,AXN
+http://splaytv.club:80/amanda/amanda@personal/83369
+
+#EXTINF:-1,Cinemax
+https://s.m3u9.top/a2/hls1/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=EkekZk3h-z3I_bmqjOuVzg&3U1G7qaTxrPbalZnEx=1700950745
+
+#EXTINF:-1,Cinemax
+http://splaytv.club:80/amanda/amanda@personal/83338
+
+#EXTINF:-1,Comedy Central
+http://splaytv.club:80/amanda/amanda@personal/83339
+
+#EXTINF:-1,Star Channel
+http://splaytv.club:80/amanda/amanda@personal/83346
+
+#EXTINF:-1,FX
+https://tvembed.net/fx/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=71942f1246b2d6b6cadd80f1f7b21a5916a339cc-b6aa872aa6a96629ff4ab2bf31575474-1702300629-1702293429
+
+#EXTINF:-1,FX
+https://s.m3u9.top/a2/hls1/fx/__index.m3u8?mu3zAQc9HC3GbwJq=hyhjN5fr59mY3D9lSdsCmw&3U1G7qaTxrPbalZnEx=1700946232
+
+#EXTINF:-1,HBO
+https://s.m3u9.top/a2/hls1/hbo/__index.m3u8?mu3zAQc9HC3GbwJq=xtZIQpANnogTo45HDleZwA&3U1G7qaTxrPbalZnEx=1700950644
+
+#EXTINF:-1,HBO
+http://splaytv.club:80/amanda/amanda@personal/83351
+
+#EXTINF:-1,HBO 2
+https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=ZtyiNd6BCYVYk0N99ZwFSQ&3U1G7qaTxrPbalZnEx=1700949669
+
+#EXTINF:-1,HBO 2
+http://splaytv.club:80/amanda/amanda@personal/83354
+
+#EXTINF:-1,HBO Plus
+https://s.m3u9.top/a2/hls1/hboplus/__index.m3u8?mu3zAQc9HC3GbwJq=4uMW7xdZ16j4L6BVUeqi9Q&3U1G7qaTxrPbalZnEx=1700946659
+
+#EXTINF:-1,HBO Plus
+http://splaytv.club:80/amanda/amanda@personal/83352
+
+#EXTINF:-1,HBO Signature
+https://s.m3u9.top/a2/hls1/hbosignature/__index.m3u8?mu3zAQc9HC3GbwJq=1EoNaUQL9uO46MMaM893kQ&3U1G7qaTxrPbalZnEx=1700950166
+
+#EXTINF:-1,HBO Signature
+http://splaytv.club:80/amanda/amanda@personal/83353
+
+#EXTINF:-1,HBO Family
+https://s.m3u9.top/a2/hls1/hbofamily/__index.m3u8?mu3zAQc9HC3GbwJq=9s-F1z_hEQuTxBRBVcgLMw&3U1G7qaTxrPbalZnEx=1701051264
+
+#EXTINF:-1,HBO Family
+http://splaytv.club:80/amanda/amanda@personal/83350
+
+#EXTINF:-1,HBO mundi
+https://s.m3u9.top/a2/hls1/hbomundi/__index.m3u8?mu3zAQc9HC3GbwJq=ykT-ezWuI_71ZaHg5G-rkQ&3U1G7qaTxrPbalZnEx=1700950014
+
+#EXTINF:-1,HBO mundi
+http://splaytv.club:80/amanda/amanda@personal/83397
+
+#EXTINF:-1,HBO pop
+https://s.m3u9.top/a2/hls1/hbopop/__index.m3u8?mu3zAQc9HC3GbwJq=-xpD7wULk9bxmE5zXSQ6kg&3U1G7qaTxrPbalZnEx=1700949757
+
+#EXTINF:-1,HBO pop
+http://splaytv.club:80/amanda/amanda@personal/83356
+
+#EXTINF:-1,HBO xtreme
+https://s.m3u9.top/a2/hls1/hboxtreme/__index.m3u8?mu3zAQc9HC3GbwJq=Pnwlu4DRx3WlNHIi1jq8qQ&3U1G7qaTxrPbalZnEx=1700947206
+
+#EXTINF:-1,HBO xtreme
+http://splaytv.club:80/amanda/amanda@personal/83398
+
+#EXTINF:-1,Megapix
+https://s.m3u9.top/a2/hls1/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=EXiqw3sIu3M0YB13MUab5A&3U1G7qaTxrPbalZnEx=1701330636
+
+#EXTINF:-1,Megapix
+http://splaytv.club:80/amanda/amanda@personal/83399
+
+#EXTINF:-1,Paramount
+http://splaytv.club:80/amanda/amanda@personal/83360
+
+#EXTINF:-1,Sony
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-4-main.m3u8
+
+#EXTINF:-1,Sony
+http://assista.live:80/5528999773199/94596866/130570
+
+#EXTINF:-1,Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
+
+#EXTINF:-1,Space
+https://s.m3u9.top/a2/hls1/space/__index.m3u8?mu3zAQc9HC3GbwJq=uI7kyHyyQamE_9PuX7dDCQ&3U1G7qaTxrPbalZnEx=1700951037
+
+#EXTINF:-1,Cult
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14380
+
+#EXTINF:-1,Studio Universal
+http://splaytv.club:80/amanda/amanda@personal/83417
+
+#EXTINF:-1,SYFY
+http://splaytv.club:80/amanda/amanda@personal/83418
+
+#EXTINF:-1,TBS
+http://splaytv.club:80/amanda/amanda@personal/83419
+
+#EXTINF:-1,ACTION
+http://splaytv.club:80/amanda/amanda@personal/83420
+
+#EXTINF:-1,STAR CHANNEL 
+http://splaytv.club:80/amanda/amanda@personal/83346
+
+#EXTINF:-1,Telecine Action
+http://splaytv.club:80/amanda/amanda@personal/83420
+
+#EXTINF:-1,Telecine Cult
+https://s.m3u9.top/a2/hls1/telecinecult/__index.m3u8?mu3zAQc9HC3GbwJq=jD03wE9mXhQ23boCoPuR3g&3U1G7qaTxrPbalZnEx=1700950547
+
+#EXTINF:-1,Telecine Cult
+http://splaytv.club:80/amanda/amanda@personal/83362
+
+#EXTINF:-1,Telecine Fun
+https://s.m3u9.top/a2/hls1/telecinefun/__index.m3u8?mu3zAQc9HC3GbwJq=tzKM4vbRXq8WXz636cL0vg&3U1G7qaTxrPbalZnEx=1700950484
+
+#EXTINF:-1,Telecine Fun
+http://splaytv.club:80/amanda/amanda@personal/83363
+
+#EXTINF:-1,Telecine Pipoca
+https://s.m3u9.top/a2/hls1/telecinepipoca/__index.m3u8?mu3zAQc9HC3GbwJq=rsr3imX487FQqOQ670GZjw&3U1G7qaTxrPbalZnEx=1700950434
+
+#EXTINF:-1,Telecine Pipoca
+http://splaytv.club:80/amanda/amanda@personal/83421
+
+#EXTINF:-1,Telecine Premium
+https://s.m3u9.top/a2/hls1/telecinepremium/__index.m3u8?mu3zAQc9HC3GbwJq=VMTPp9GEbtuX6LCjwXEOtQ&3U1G7qaTxrPbalZnEx=1700950303
+
+#EXTINF:-1,Telecine Premium
+http://splaytv.club:80/amanda/amanda@personal/83364
+
+#EXTINF:-1,Telecine Touch
+https://s.m3u9.top/a2/hls1/telecinetouch/__index.m3u8?mu3zAQc9HC3GbwJq=AxTxbN2O5yT6XI_7BT97Sg&3U1G7qaTxrPbalZnEx=1700950235
+
+#EXTINF:-1,Telecine Touch
+http://splaytv.club:80/amanda/amanda@personal/83365
+
+#EXTINF:-1,E!
+http://splaytv.club:80/amanda/amanda@personal/83345
+
+#EXTINF:-1,A&E
+http://splaytv.club:80/amanda/amanda@personal/83335
+
+#EXTINF:-1,TCM
+https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
+
+#EXTINF:-1,TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1,TNT
+http://splaytv.club:80/amanda/amanda@personal/83423
+
+#EXTINF:-1,TNT NOVELAS
+http://assista.live:80/5528999773199/94596866/130635
+
+#EXTINF:-1,tnt series
+http://splaytv.club:80/amanda/amanda@personal/83366
+
+#EXTINF:-1,Studio Universal (H265)
+http://splaytv.club:80/amanda/amanda@personal/83417
+
+#EXTINF:-1,Warner
+https://s.m3u9.top/a2/hls1/warner/__index.m3u8?mu3zAQc9HC3GbwJq=q30wpOUY0zMTkVJB9o3xdA&3U1G7qaTxrPbalZnEx=1700950840
+
+#EXTINF:-1,Warner
+http://splaytv.club:80/amanda/amanda@personal/83428
+
+#EXTINF:-1,Band News
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
+
+#EXTINF:-1,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1,Globo sport
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+
+#EXTINF:-1,Globo News
+http://assista.live:80/5528999773199/94596866/130596
+
+#EXTINF:-1,Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1,Modo Viagem
+http://splaytv.club:80/amanda/amanda@personal/83396
+
+#EXTINF:-1,Prime
+http://splaytv.club:80/amanda/amanda@personal/147647
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esportes",TNT Sports 
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esportes",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esportes",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esportes",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8
+
+#EXTINF:-1,Band Sport
+http://splaytv.club:80/amanda/amanda@personal/83371
+
+#EXTINF:-1,ESPN
+http://splaytv.club:80/amanda/amanda@personal/83385
+
+#EXTINF:-1,ESPN 2
+http://splaytv.club:80/amanda/amanda@personal/83385
+
+#EXTINF:-1,ESPN Brasil
+http://assista.live:80/5528999773199/94596866/130589
+
+#EXTINF:-1,ESPN Extra
+http://splaytv.club:80/amanda/amanda@personal/83382
+
+#EXTINF:-1,Fox Sports
+http://assista.live:80/5528999773199/94596866/130593
+
+#EXTINF:-1,Fox Sports 2
+http://splaytv.club:80/amanda/amanda@personal/83389
+
+#EXTINF:-1,Premiere 1
+http://splaytv.club:80/amanda/amanda@personal/83405
+
+#EXTINF:-1,Premiere 2
+http://splaytv.club:80/amanda/amanda@personal/83406
+
+#EXTINF:-1,Premiere3
+http://splaytv.club:80/amanda/amanda@personal/83407
+
+#EXTINF:-1,Premiere4
+http://splaytv.club:80/amanda/amanda@personal/83408
+
+#EXTINF:-1,Premiere5
+http://splaytv.club:80/amanda/amanda@personal/83409
+
+#EXTINF:-1,Premiere6
+http://splaytv.club:80/amanda/amanda@personal/83410
+
+#EXTINF:-1,Premiere7
+http://splaytv.club:80/amanda/amanda@personal/83411
+
+#EXTINF:-1,TNT
+http://splaytv.club:80/amanda/amanda@personal/83423
+
+#EXTINF:-1,SporTV
+http://splaytv.club:80/amanda/amanda@personal/83416
+
+#EXTINF:-1,SporTV 2
+http://splaytv.club:80/amanda/amanda@personal/83414
+
+#EXTINF:-1,SporTV 3
+http://splaytv.club:80/amanda/amanda@personal/83415
+
+#EXTINF:-1,Band Esporte
+http://splaytv.club:80/amanda/amanda@personal/83371
+
+#EXTINF:-1,Combate
+http://splaytv.club:80/amanda/amanda@personal/83376
+
+#EXTINF:-1,ESPN
+http://splaytv.club:80/amanda/amanda@personal/83385
+
+#EXTINF:-1,ESPN 2
+http://splaytv.club:80/amanda/amanda@personal/83383
+
+#EXTINF:-1,ESPN 3
+http://splaytv.club:80/amanda/amanda@personal/83384
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2ZxGPC__4qax7qUeoAcuMJMI_NOyoQVCRk3qmJhGp5rugs3zJsmt3cT0Weic_zogvhY&usqp=CAU" group-title=,,Fox Sports
+http://splaytv.club:80/amanda/amanda@personal/83389
+
+#EXTINF:-1,BIS
+http://splaytv.club:80/amanda/amanda@personal/83337
+
+#EXTINF:-1,Comed Central
+http://splaytv.club:80/amanda/amanda@personal/83339
+
+#EXTINF:-1,USA
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14400
+
+
+#EXTINF:-1,Sabor e Arte
+https://tvcanais.xyz/arte/index.fmp4.m3u8
+
+#EXTINF:-1,MTV
+https://tvcanais.xyz/mtv/index.fmp4.m3u8
+
+#EXTINF:-1,Curta
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14561
+
+#EXTINF:-1,E!
+https://tvcanais.xyz/e/index.fmp4.m3u8
+
+#EXTINF:-1,FASHION TV
+https://tvcanais.xyz/fashion/index.fmp4.m3u8
+
+#EXTINF:-1,FISH TV
+http://assista.live:80/5528999773199/94596866/130591
+
+#EXTINF:-1,FoodNetwork
+http://assista.live:80/5528999773199/94596866/130592
+
+#EXTINF:-1,Cine Canal
+https://tvcanais.xyz/cinecanal/index.fmp4.m3u8
+
+#EXTINF:-1,GNT
+http://assista.live:80/5528999773199/94596866/130598
+
+#EXTINF:-1,HGTV
+http://assista.live:80/5528999773199/94596866/130607
+
+#EXTINF:-1,Health
+https://tvcanais.xyz/health/index.fmp4.m3u8
+
+#EXTINF:-1,Lifetime
+http://assista.live:80/5528999773199/94596866/130610
+
+#EXTINF:-1,MTV
+http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
+
+#EXTINF:-1,Multishow
+http://assista.live:80/5528999773199/94596866/130613
+
+#EXTINF:-1,OFF
+https://tvcanais.xyz/off/index.fmp4.m3u8
+
+#EXTINF:-1,Play tv
+https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
+
+#EXTINF:-1,TLC
+http://assista.live:80/5528999773199/94596866/130642
+
+#EXTINF:-1,Curta tv
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1,Viva
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14444
+
+#EXTINF:-1,OFF
+http://assista.live:80/5528999773199/94596866/130618
+
+#EXTINF:-1,WOOHOO
+http://assista.live:80/5528999773199/94596866/130647
+
+#EXTINF:-1,TV Brasil
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1,Canal Brasil
+http://assista.live:80/5528999773199/94596866/130571
+
+#EXTINF:-1,TV Gazeta
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
+
+ #EXTINF:-1,Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1,TV EScola
+https://tvcanais.xyz/tv_escola/index.fmp4.m3u8
+
+#EXTINF:-1,TV Justiça
+https://ythlsgo.onrender.com/video/OWeEUedp_6c.m3u8
+
+#EXTINF:-1,TV Senado
+https://tvcanais.xyz/tv_senado/index.fmp4.m3u8
+
+#EXTINF:-1,Canal Rural
+https://tvcanais.xyz/canal_rural/index.fmp4.m3u8
+
+#EXTINF:-1,Canal do boi
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
+
+#EXTINF:-1,Curta
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1,agro brasil
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1,Rede Gospel
+https://tvcanais.xyz/rede_gospel/index.fmp4.m3u8
+
+#EXTINF:-1,Futura
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14560.m3u8
+
+#EXTINF:-1,POLISHOP
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14407.m3u8
+
+#EXTINF:-1,SHOPTIME
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/522
+
+#EXTINF:-1,tv novo tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1,TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 6
+http://testo.app-host11.xyz:2095/Tourobox1-nk4bTe7tRI/C8XSOm46Sk/469
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title="RÁDIOS | TODAS FREQUÊNCIAS" tvg-logo="https://img.radios.com.br/radio/md/radio8756_1439401340.jpg",Rádio 96 Bauru São Paulo - 96 FM | FONTE 1
 http://tv.com.vc:80/paulinho/123456/108112
