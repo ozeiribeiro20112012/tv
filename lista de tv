@@ -1491,3 +1491,13 @@ http://tv.com.vc:80/paulinho/123456/960057
 http://tv.com.vc:80/paulinho/123456/960061
 #EXTINF:-1 group-title="CANAIS | FONTE 1" tvg-logo="http://021stream.xyz:80/images/5dc4e34305549df382f5a995f0cec20a.png",Série TNT 4K
 http://tv.com.vc:80/paulinho/123456/960066
+
+
+#EXTINF:-1,Ponte do Silva
+https://mia.rtsp.me/hls/DQbyk2i6.m3u8
+
+#EXTINF:-1,ponte dos arcos
+https://mia.rtsp.me/hls/i98bYGkY.m3u8
+
+#EXTINF:-1,Ponte rio branco
+https://mia.rtsp.me/hls/eTayTiAG.m3u8
